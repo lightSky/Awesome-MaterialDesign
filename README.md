@@ -30,6 +30,9 @@ https://github.com/navasmdc/MaterialDesignLibrary
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-e.png" width="150" height="60" alt="Screenshot"/>
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-h.png" width="260" height="410" alt="Screenshot"/>  
 
+https://github.com/keithellis/MaterialWidget    
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialWidget.png" width="260" height="410" alt="Screenshot"/>  
+
 https://github.com/mikepenz/Android-LollipopShowcase  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-LollipopShowcase-a.jpg" width="260" height="410" alt="Screenshot"/>
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-LollipopShowcase-b.jpg" width="260" height="410" alt="Screenshot"/>
