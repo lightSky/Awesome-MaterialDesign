@@ -78,6 +78,12 @@ https://github.com/xiprox/Material-Action-Bar-Sample
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Material-Action-Bar-Sample-a.png" width="260" height="410" alt="Screenshot"/>
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Material-Action-Bar-Sample-b.png" width="260" height="410" alt="Screenshot"/>
 
+https://github.com/saleeh93/Android-Material-support-libraries-Samples  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-support-libraries-Samples-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-support-libraries-Samples-b.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-support-libraries-Samples-c.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-support-libraries-Samples-d.png" width="260" height="410" alt="Screenshot"/>
+
 
 ### FAB
 https://github.com/FaizMalkani/FloatingActionButton（无图）  
