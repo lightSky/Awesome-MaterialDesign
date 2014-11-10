@@ -31,7 +31,10 @@ https://github.com/navasmdc/MaterialDesignLibrary
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-h.png" width="260" height="410" alt="Screenshot"/>  
 
 https://github.com/keithellis/MaterialWidget    
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialWidget.png" width="520" height="410" alt="Screenshot"/>  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialWidget.png" width="480" height="410" alt="Screenshot"/>  
+Android-Material-Example
+https://github.com/rengwuxian/MaterialEditText  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialEditText-a.png" width="410" height="210" alt="Screenshot"/>  
 
 https://github.com/mikepenz/Android-LollipopShowcase  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-LollipopShowcase-a.jpg" width="260" height="410" alt="Screenshot"/>
@@ -46,11 +49,11 @@ https://github.com/romainguy/google-io-2014
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/google-io-2014-b.png" width="260" height="410" alt="Screenshot"/>  
 
 https://github.com/dexafree/MaterialList  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialList-a.png" width="400" height="230" alt="Screenshot"/> <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialList-b.png" width="400" height="230" alt="Screenshot"/>  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialList-a.png" width="400" height="210" alt="Screenshot"/> <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialList-b.png" width="400" height="210" alt="Screenshot"/>  
 
 https://github.com/saulmm/Android-Material-Example  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-Material-Example-a.gif" width="400" height="230" alt="Screenshot"/>
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-Material-Example-b.gif" width="280" height="430" alt="Screenshot"/>    
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-Material-Example-a.gif" width="400" height="200" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-Material-Example-b.gif" width="260" height="410" alt="Screenshot"/>    
 
 ### FAB
 https://github.com/FaizMalkani/FloatingActionButton（无图）  
@@ -59,29 +62,26 @@ https://github.com/futuresimple/android-floating-action-button
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/android-floating-action-button-b.png" width="120" height="120" alt="Screenshot"/>  
 
 https://github.com/telly/FloatingAction  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/FloatingAction.gif" width="280" height="430" alt="Screenshot"/>  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/FloatingAction.gif" width="260" height="410" alt="Screenshot"/>  
 
 https://github.com/makovkastar/FloatingActionButton  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/FloatingActionButton.gif" width="260" height="410" alt="Screenshot"/>  
 
 https://github.com/flavienlaurent/tickplusdrawable  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/tickplusdrawable.gif" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/tickplusdrawable.gif" width="180" height="280" alt="Screenshot"/>
 
 ### Menu & Drawer
 
 https://github.com/markushi/android-ui  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/android-ui-a.gif" width="120" height="120" alt="Screenshot"/>  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/android-ui-a.gif" width="80" height="80" alt="Screenshot"/>  
 
 https://github.com/balysv/material-menu  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/material-menu.gif" width="410" height="90" alt="Screenshot"/>  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/material-menu.gif" width="410" height="70" alt="Screenshot"/>  
 
 https://github.com/ikimuhendis/LDrawer  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/LDrawer.gif" width="260" height="410" alt="Screenshot"/>  
 https://github.com/kanytu/android-material-drawer-template  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/android-material-drawer-template.gif" width="260" height="410" alt="Screenshot"/>  
-
-https://github.com/rengwuxian/MaterialEditText  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialEditText-a.png" width="410" height="210" alt="Screenshot"/>  
 
 
 ### Tricks
