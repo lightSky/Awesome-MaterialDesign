@@ -1,4 +1,6 @@
 MaterialDesignLibs
 ==================
 
-Collection of material design lib on github.
+Collection of material design libs and res.  
+
+
