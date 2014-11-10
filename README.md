@@ -25,13 +25,13 @@ https://www.youtube.com/watch?v=S3H7nJ4QaD8
 https://github.com/navasmdc/MaterialDesignLibrary  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-a.png" width="160" height="100" alt="Screenshot"/> 
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-b.png" width="120" height="60" alt="Screenshot"/> 
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-c.png" width="150" height="60" alt="Screenshot"/> 
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-d.png" width="150" height="60" alt="Screenshot"/> 
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-e.png" width="150" height="60" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-c.png" width="130" height="60" alt="Screenshot"/> 
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-d.png" width="130" height="60" alt="Screenshot"/> 
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-e.png" width="130" height="60" alt="Screenshot"/>
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-h.png" width="260" height="410" alt="Screenshot"/>  
 
 https://github.com/keithellis/MaterialWidget    
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialWidget.png" width="260" height="410" alt="Screenshot"/>  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialWidget.png" width="520" height="410" alt="Screenshot"/>  
 
 https://github.com/mikepenz/Android-LollipopShowcase  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-LollipopShowcase-a.jpg" width="260" height="410" alt="Screenshot"/>
@@ -97,7 +97,7 @@ https://github.com/markushi/android-ui
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/android-ui-ripple.gif" width="260" height="410" alt="Screenshot"/>  
 
 https://github.com/traex/RippleEffect  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/RippleEffect.jpg" width="410" height="260" alt="Screenshot"/>  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/RippleEffect.gif" width="410" height="260" alt="Screenshot"/>  
 
 https://github.com/siriscac/RippleView  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/RippleView.gif" width="260" height="410" alt="Screenshot"/>  
