@@ -65,7 +65,8 @@ https://github.com/saulmm/Android-Material-Example
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-Material-Example-a.gif" width="400" height="200" alt="Screenshot"/>
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-Material-Example-b.gif" width="260" height="410" alt="Screenshot"/>
 
-https://github.com/antoniolg/MaterialEverywhere（无图）    
+https://github.com/antoniolg/MaterialEverywhere（无图） 
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialEverywhere.gif" width="260" height="410" alt="Screenshot"/>    
 
 ### FAB
 https://github.com/FaizMalkani/FloatingActionButton（无图）  
