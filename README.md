@@ -40,11 +40,16 @@ https://github.com/markushi/android-ui
 https://github.com/balysv/material-menu  
 https://github.com/ikimuhendis/LDrawer  
 
+### Tricks
+https://github.com/ksoichiro/Android-ObservableScrollView  
+https://github.com/skyfishjy/android-ripple-background
+
 ### Ripple
 
 https://github.com/markushi/android-ui  
 https://github.com/traex/RippleEffect  
-https://github.com/siriscac/RippleView   
+https://github.com/siriscac/RippleView  
+https://github.com/skyfishjy/android-ripple-background
 
 ### Transition
 https://github.com/saulmm/android_L_preview_example(图太大)  
