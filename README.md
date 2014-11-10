@@ -23,9 +23,19 @@ https://www.youtube.com/watch?v=S3H7nJ4QaD8
 
 ### 示例集合
 https://github.com/rahulparsani/google-io-2014-compat  
+ <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/google-io-2014-compat-a.gif" width="280" height="430" alt="Screenshot"/>
+  <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/google-io-2014-compat-b.gif" width="280" height="430" alt="Screenshot"/>
+
 https://github.com/romainguy/google-io-2014  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/google-io-2014-a.png" width="280" height="430" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/google-io-2014-b.png" width="280" height="430" alt="Screenshot"/>  
+
 https://github.com/dexafree/MaterialList  
-https://github.com/saulmm/Android-Material-Example
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialList-a.png" width="400" height="230" alt="Screenshot"/> <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialList-b.png" width="400" height="230" alt="Screenshot"/>  
+
+https://github.com/saulmm/Android-Material-Example  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-Material-Example-a.gif" width="400" height="230" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-Material-Example-b.gif" width="280" height="430" alt="Screenshot"/>    
 
 ### FAB
 https://github.com/FaizMalkani/FloatingActionButton（无图）  
