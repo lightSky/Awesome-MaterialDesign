@@ -8,6 +8,7 @@ Collection of material design libs and res.
 # 资源
 ### Material Design介绍：  
 http://www.google.com/design/spec/material-design/introduction.html  
+http://design.1sters.com(中文)
   
 ### 设计资源
 https://github.com/google/material-design-icons  
