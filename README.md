@@ -22,9 +22,21 @@ https://www.youtube.com/watch?v=S3H7nJ4QaD8
 # Material Libs  
 
 ### 示例集合
+https://github.com/navasmdc/MaterialDesignLibrary  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-a.png" width="160" height="100" alt="Screenshot"/> 
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-b.png" width="120" height="60" alt="Screenshot"/> 
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-c.png" width="150" height="60" alt="Screenshot"/> 
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-d.png" width="150" height="60" alt="Screenshot"/> 
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-e.png" width="150" height="60" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-h.png" width="260" height="410" alt="Screenshot"/>  
+
+https://github.com/mikepenz/Android-LollipopShowcase  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-LollipopShowcase-a.jpg" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-LollipopShowcase-b.jpg" width="260" height="410" alt="Screenshot"/>
+
 https://github.com/rahulparsani/google-io-2014-compat  
- <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/google-io-2014-compat-a.gif" width="260" height="410" alt="Screenshot"/>
-  <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/google-io-2014-compat-b.gif" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/google-io-2014-compat-a.gif" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/google-io-2014-compat-b.gif" width="260" height="410" alt="Screenshot"/>
 
 https://github.com/romainguy/google-io-2014  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/google-io-2014-a.png" width="260" height="410" alt="Screenshot"/>
@@ -58,15 +70,23 @@ https://github.com/markushi/android-ui
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/android-ui-a.gif" width="120" height="120" alt="Screenshot"/>  
 
 https://github.com/balysv/material-menu  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/material-menu.gif" width="410" height="110" alt="Screenshot"/>  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/material-menu.gif" width="410" height="90" alt="Screenshot"/>  
 
 https://github.com/ikimuhendis/LDrawer  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/LDrawer.gif" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/LDrawer.gif" width="260" height="410" alt="Screenshot"/>  
+https://github.com/kanytu/android-material-drawer-template  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/android-material-drawer-template.gif" width="260" height="410" alt="Screenshot"/>  
+
+https://github.com/rengwuxian/MaterialEditText  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialEditText-a.png" width="410" height="210" alt="Screenshot"/>  
+
 
 ### Tricks
 https://github.com/ksoichiro/Android-ObservableScrollView  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-ObservableScrollView-a.gif" width="280" height="230" alt="Screenshot"/>
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-ObservableScrollView-c.gif" width="280" height="230" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-ObservableScrollView-c.gif" width="280" height="230" alt="Screenshot"/>  
+https://github.com/Kennyc1012/SnackBar  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/SnackBar.gif" width="260" height="410" alt="Screenshot"/>  
 
 ### Ripple
 
@@ -74,7 +94,8 @@ https://github.com/markushi/android-ui
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/android-ui-ripple.gif" width="260" height="410" alt="Screenshot"/>  
 
 https://github.com/traex/RippleEffect  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/RippleEffect.jpg" width="410" height="260" alt="Screenshot"/> 
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/RippleEffect.jpg" width="410" height="260" alt="Screenshot"/>  
+
 https://github.com/siriscac/RippleView  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/RippleView.gif" width="260" height="410" alt="Screenshot"/>  
 
