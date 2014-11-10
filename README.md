@@ -4,20 +4,29 @@ MaterialDesignCenter
 Collection of material design libs and res.  
 
 
-# 资源：  
+# 资源
 ### Material Design介绍：  
 http://www.google.com/design/spec/material-design/introduction.html  
   
-## 设计资源：  
+### 设计资源
 https://github.com/google/material-design-icons  
 
-### Material Design App:  
-Google  2014: https://github.com/google/iosched  
+### 官方Blog  
+[AppCompat v21 — Material Design for Pre-Lollipop Devices!](http://android-developers.blogspot.jp/2014/10/appcompat-v21-material-design-for-pre.html)  
+[Implementing material design in your Android app](http://android-developers.blogspot.jp/2014/10/implementing-material-design-in-your.html)  
+[Material Design on Android Checklist](http://android-developers.blogspot.jp/2014/10/material-design-on-android-checklist.html)  
+
+### 官方 Material Design App
+Google  2014: https://github.com/google/iosched
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/iosched-a.jpg" width="260" height="410" alt="Screenshot"/> 
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/iosched-b.jpg" width="260" height="410" alt="Screenshot"/> 
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/iosched-d.jpg" width="260" height="410" alt="Screenshot"/> 
 （下载地址：http://vdisk.weibo.com/s/av06eFs1kWSeE  如果需要梯子，文件夹下的另一个fqrouter会帮到你）    
-  
-### 视频教程:
-https://www.youtube.com/watch?v=97SWYiRtF0Y&feature=youtu.be
+
+### 视频教程
+https://www.youtube.com/watch?v=97SWYiRtF0Y&feature=youtu.be  
 https://www.youtube.com/watch?v=S3H7nJ4QaD8  
+
 
 # Material Libs  
 
