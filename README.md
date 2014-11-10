@@ -2,7 +2,8 @@ MaterialDesignCenter
 ==================
 
 Collection of material design libs and res.  
-
+>如果你也有不错的Material Design相关资源，可直接Commit，但在Commit之前，请进行Preview changes，保持整体的美观性，图片的命名和规格可以参照已提交的图片。
+>欢迎大家Star、Fork :)
 
 # 资源
 ### Material Design介绍：  
