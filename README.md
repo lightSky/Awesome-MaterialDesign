@@ -13,7 +13,7 @@ https://github.com/google/material-design-icons
 
 ### Material Design App:  
 Google  2014: https://github.com/google/iosched  
-（下载地址：http://vdisk.weibo.com/s/av06eFs1kWSeE  如果需要梯子去请求数据，文件夹下的另一个apk会帮到你）    
+（下载地址：http://vdisk.weibo.com/s/av06eFs1kWSeE  如果需要梯子，文件夹下的另一个fqrouter会帮到你）    
   
 ### 视频教程:
 https://www.youtube.com/watch?v=97SWYiRtF0Y&feature=youtu.be
