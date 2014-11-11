@@ -212,10 +212,10 @@ https://github.com/AndroidDeveloperLB/MaterialStuffLibrary
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialStuffLibrary-b.png" width="260" height="410" alt="Screenshot"/>
 
 https://github.com/fengdai/AlertDialogPro  
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/AlertDialogPro-a.jpg" alt="Screenshot"/>
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/AlertDialogPro-b.jpg" alt="Screenshot"/>
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/AlertDialogPro-c.jpg" alt="Screenshot"/>
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/AlertDialogPro-d.jpg" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/AlertDialogPro-a.png" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/AlertDialogPro-b.png" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/AlertDialogPro-c.png" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/AlertDialogPro-d.png" alt="Screenshot"/>
 
 ### EditText
 https://github.com/rengwuxian/MaterialEditText  
