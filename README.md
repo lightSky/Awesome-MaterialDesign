@@ -126,6 +126,10 @@ https://github.com/flavienlaurent/tickplusdrawable
 https://github.com/glomadrian/Android-Material-circular-button  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-circular-button-a.png" width="260" height="410" alt="Screenshot"/>
 
+https://github.com/onivas/MenuAnimation  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MenuAnimation-a.gif" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MenuAnimation-b.gif" width="260" height="410" alt="Screenshot"/>
+
 ### Menu & Drawer
 
 https://github.com/markushi/android-ui  
