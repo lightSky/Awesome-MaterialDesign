@@ -25,9 +25,9 @@ https://github.com/Templarian/MaterialDesign
 
 ### 官方 Material Design App
 Google  2014: https://github.com/google/iosched  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/iosched-a.jpg" width="260" height="410" alt="Screenshot"/> 
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/iosched-b.jpg" width="260" height="410" alt="Screenshot"/> 
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/iosched-d.jpg" width="260" height="410" alt="Screenshot"/>  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/iosched-a.jpg" width="230" height="400" alt="Screenshot"/> 
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/iosched-b.jpg" width="230" height="400" alt="Screenshot"/> 
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/iosched-d.jpg" width="230" height="400" alt="Screenshot"/>  
 （下载地址：http://vdisk.weibo.com/s/av06eFs1kWSeE  如果需要梯子，文件夹下的另一个fqrouter会帮到你）    
 
 ### 视频教程
@@ -48,7 +48,7 @@ https://github.com/navasmdc/MaterialDesignLibrary
 
 https://github.com/keithellis/MaterialWidget    
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialWidget.png" width="480" height="410" alt="Screenshot"/>  
-Android-Material-Example
+
 https://github.com/rengwuxian/MaterialEditText  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialEditText-a.png" width="410" height="210" alt="Screenshot"/>  
 
@@ -127,6 +127,10 @@ https://github.com/ikimuhendis/LDrawer
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/LDrawer.gif" width="260" height="410" alt="Screenshot"/>  
 https://github.com/kanytu/android-material-drawer-template  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/android-material-drawer-template.gif" width="260" height="410" alt="Screenshot"/>  
+
+https://github.com/neokree/MaterialTabs  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialTabs-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialTabs-b.png" width="260" height="410" alt="Screenshot"/>  
 
 
 ### Tricks
