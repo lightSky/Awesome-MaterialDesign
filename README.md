@@ -101,7 +101,7 @@ https://github.com/sprik/notificationmaterial
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/notificationmaterial-a.png" width="260" height="410" alt="Screenshot"/>
 
 https://github.com/aNNiMON/PaperStyleWidgets  
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/PaperStyleWidgets-a.png" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/PaperStyleWidgets-a.gif" alt="Screenshot"/>
 
 ### FAB
 https://github.com/FaizMalkani/FloatingActionButton（无图）  
@@ -117,6 +117,9 @@ https://github.com/makovkastar/FloatingActionButton
 
 https://github.com/flavienlaurent/tickplusdrawable  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/tickplusdrawable.gif" width="180" height="280" alt="Screenshot"/>
+
+https://github.com/glomadrian/Android-Material-circular-button  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-circular-button-a.png" width="260" height="410" alt="Screenshot"/>
 
 ### Menu & Drawer
 
