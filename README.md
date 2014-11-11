@@ -168,6 +168,8 @@ https://github.com/skyfishjy/android-ripple-background
 https://github.com/balysv/material-ripple  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-ripple-a.gif" width="260" height="410" alt="Screenshot"/>
 
+https://github.com/03uk/RippleDrawable  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/RippleDrawable-a.jpg" alt="Screenshot"/>
 
 ### Transition
 https://github.com/saulmm/android_L_preview_example(图太大)  
