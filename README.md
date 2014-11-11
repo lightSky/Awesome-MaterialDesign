@@ -162,6 +162,9 @@ https://github.com/siriscac/RippleView
 https://github.com/skyfishjy/android-ripple-background  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/android-ripple-background-a.gif" width="260" height="410" alt="Screenshot"/>
 
+https://github.com/balysv/material-ripple  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-ripple-a.gif" width="260" height="410" alt="Screenshot"/>
+
 
 ### Transition
 https://github.com/saulmm/android_L_preview_example(图太大)  
