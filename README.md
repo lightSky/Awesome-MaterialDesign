@@ -135,6 +135,8 @@ https://github.com/neokree/MaterialTabs
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialTabs-a.png" width="260" height="410" alt="Screenshot"/>
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialTabs-b.png" width="260" height="410" alt="Screenshot"/>  
 
+https://github.com/lewisjdeane/L-Navigation-Drawer  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/L-Navigation-Drawer-a.png" width="260" height="410" alt="Screenshot"/>
 
 ### Tricks
 https://github.com/ksoichiro/Android-ObservableScrollView  
