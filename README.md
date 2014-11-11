@@ -47,10 +47,7 @@ https://github.com/navasmdc/MaterialDesignLibrary
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-h.png" width="260" height="410" alt="Screenshot"/>  
 
 https://github.com/keithellis/MaterialWidget    
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialWidget.png" width="480" height="410" alt="Screenshot"/>  
-
-https://github.com/rengwuxian/MaterialEditText  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialEditText-a.png" width="410" height="210" alt="Screenshot"/>  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialWidget.png" width="480" height="410" alt="Screenshot"/>   
 
 https://github.com/mikepenz/Android-LollipopShowcase  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-LollipopShowcase-a.jpg" width="260" height="410" alt="Screenshot"/>
@@ -186,3 +183,10 @@ https://github.com/lewisjdeane/L-Dialogs
 https://github.com/AndroidDeveloperLB/MaterialStuffLibrary  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialStuffLibrary-a.png" width="260" height="410" alt="Screenshot"/>
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialStuffLibrary-b.png" width="260" height="410" alt="Screenshot"/>
+
+### EditText
+https://github.com/rengwuxian/MaterialEditText  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialEditText-a.png" width="410" height="210" alt="Screenshot"/> 
+
+https://github.com/zst123/MaterialTextField  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialTextField-a.png" width="260" height="410" alt="Screenshot"/>
