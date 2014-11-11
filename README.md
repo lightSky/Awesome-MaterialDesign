@@ -221,3 +221,12 @@ https://github.com/zst123/MaterialTextField
 ### Animations
 https://github.com/gabrielemariotti/RecyclerViewItemAnimators  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/RecyclerViewItemAnimators.gif" width="260" height="410" alt="Screenshot"/>
+
+# 完整项目
+https://github.com/afollestad/cabinet  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-a.jpg" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-b.jpg" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-c.jpg" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-d.jpg" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-e.jpg" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-f.jpg" width="260" height="410" alt="Screenshot"/>
