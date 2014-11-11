@@ -169,3 +169,7 @@ https://github.com/r0adkll/PostOffice
 
 https://github.com/lewisjdeane/L-Dialogs  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/L-Dialogs.jpg" width="1000" height="430" alt="Screenshot"/> 
+
+https://github.com/AndroidDeveloperLB/MaterialStuffLibrary  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialStuffLibrary-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialStuffLibrary-b.png" width="260" height="410" alt="Screenshot"/>
