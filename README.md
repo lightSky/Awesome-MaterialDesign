@@ -16,6 +16,9 @@ https://github.com/google/material-design-icons
 [AppCompat v21 — Material Design for Pre-Lollipop Devices!](http://android-developers.blogspot.jp/2014/10/appcompat-v21-material-design-for-pre.html)  
 [Implementing material design in your Android app](http://android-developers.blogspot.jp/2014/10/implementing-material-design-in-your.html)  
 [Material Design on Android Checklist](http://android-developers.blogspot.jp/2014/10/material-design-on-android-checklist.html)  
+##### 译文
+[进入Material Design时代](http://blog.csdn.net/xushuaic/article/details/40627389)  
+[AppCompat V21：将 Materia Design 兼容到5.0之前的设备](http://blog.csdn.net/xushuaic/article/details/40212327)
 
 ### 官方 Material Design App
 Google  2014: https://github.com/google/iosched  
