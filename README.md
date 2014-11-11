@@ -100,6 +100,9 @@ https://github.com/shawwinbin/MaterialDesignSupport
 https://github.com/sprik/notificationmaterial  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/notificationmaterial-a.png" width="260" height="410" alt="Screenshot"/>
 
+https://github.com/aNNiMON/PaperStyleWidgets  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/PaperStyleWidgets-a.png" alt="Screenshot"/>
+
 ### FAB
 https://github.com/FaizMalkani/FloatingActionButton（无图）  
 https://github.com/futuresimple/android-floating-action-button  
