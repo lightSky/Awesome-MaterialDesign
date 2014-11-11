@@ -103,6 +103,11 @@ https://github.com/aNNiMON/PaperStyleWidgets
 https://github.com/tekinarslan/AndroidMaterialDesignToolbar  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/AndroidMaterialDesignToolbar-a.gif" width="260" height="410" alt="Screenshot"/>
 
+https://github.com/afollestad/material-dialogs  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-dialogs-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-dialogs-b.png" width="260" height="410" alt="Screenshot"/>
+
+
 ### FAB
 https://github.com/FaizMalkani/FloatingActionButton（无图）  
 https://github.com/futuresimple/android-floating-action-button  
@@ -145,7 +150,7 @@ https://github.com/DympyDev/Material_Navigationdrawer (无图)
 https://github.com/datallboy/MaterialNavigation (无图)
 
 https://github.com/ChrisRenke/DrawerArrowDrawable  
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/DrawerArrowDrawable.gif" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/DrawerArrowDrawable.gif" alt="Screenshot"/>
 
 ### Tricks
 https://github.com/ksoichiro/Android-ObservableScrollView  
@@ -205,4 +210,4 @@ https://github.com/rengwuxian/MaterialEditText
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialEditText-a.png" width="410" height="210" alt="Screenshot"/> 
 
 https://github.com/zst123/MaterialTextField  
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialTextField-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialTextField-a.jpg" width="260" height="410" alt="Screenshot"/>
