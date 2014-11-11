@@ -124,7 +124,7 @@ https://github.com/flavienlaurent/tickplusdrawable
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/tickplusdrawable.gif" width="180" height="280" alt="Screenshot"/>
 
 https://github.com/glomadrian/Android-Material-circular-button  
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-circular-button-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-circular-button-a.gif" width="260" height="410" alt="Screenshot"/>
 
 https://github.com/onivas/MenuAnimation  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MenuAnimation-a.gif" alt="Screenshot"/>
@@ -222,7 +222,7 @@ https://github.com/rengwuxian/MaterialEditText
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialEditText-a.png" width="410" height="210" alt="Screenshot"/> 
 
 https://github.com/zst123/MaterialTextField  
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialTextField-a.jpg" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialTextField-a.jpg" alt="Screenshot"/>
 
 ### Animations
 https://github.com/gabrielemariotti/RecyclerViewItemAnimators  
@@ -230,9 +230,9 @@ https://github.com/gabrielemariotti/RecyclerViewItemAnimators
 
 # 完整项目
 https://github.com/afollestad/cabinet  
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-a.jpg" width="260" height="410" alt="Screenshot"/>
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-b.jpg" width="260" height="410" alt="Screenshot"/>
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-c.jpg" width="260" height="410" alt="Screenshot"/>
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-d.jpg" width="260" height="410" alt="Screenshot"/>
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-e.jpg" width="260" height="410" alt="Screenshot"/>
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-f.jpg" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-b.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-c.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-d.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-e.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-f.png" width="260" height="410" alt="Screenshot"/>
