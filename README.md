@@ -13,9 +13,9 @@ http://design.1sters.com(中文)
 ### 设计资源
 https://github.com/google/material-design-icons  
 https://github.com/intrications/material-design-icons-adt-template  
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-design-icons-adt-template-a.png" width="640" height="410" alt="Screenshot"/> 
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-design-icons-adt-template-b.png" width="640" height="410" alt="Screenshot"/> 
-https://github.com/Templarian/MaterialDesign 
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-design-icons-adt-template-a.png" width="540" height="410" alt="Screenshot"/> 
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-design-icons-adt-template-b.png" width="540" height="410" alt="Screenshot"/> 
+https://github.com/Templarian/MaterialDesign   
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesign-a.png" width="480" alt="Screenshot"/> 
 
 ### 官方Blog  
@@ -72,9 +72,7 @@ https://github.com/antoniolg/MaterialEverywhere
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialEverywhere.gif" width="260" height="410" alt="Screenshot"/>    
 
 https://github.com/rejasupotaro/MaterialDesignSample  
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSample-a.png" width="260" height="410" alt="Screenshot"/>
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSample-b.png" width="260" height="410" alt="Screenshot"/>
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSample-c.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSample-a.png" width="600" height="320" alt="Screenshot"/>
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSample-d.gif" width="260" height="410" alt="Screenshot"/>
 
 https://github.com/xiprox/Material-Action-Bar-Sample  
@@ -150,11 +148,11 @@ https://github.com/neokree/MaterialTabs
 https://github.com/lewisjdeane/L-Navigation-Drawer  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/L-Navigation-Drawer-a.png" width="260" height="410" alt="Screenshot"/>
 
-https://github.com/DympyDev/Material_Navigationdrawer (无图)
+https://github.com/DympyDev/Material_Navigationdrawer (无图)  
 https://github.com/datallboy/MaterialNavigation (无图)
 
 https://github.com/ChrisRenke/DrawerArrowDrawable  
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/DrawerArrowDrawable.gif" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/DrawerArrowDrawable.gif" width="460" alt="Screenshot"/>
 
 ### Tricks
 https://github.com/ksoichiro/Android-ObservableScrollView  
