@@ -215,3 +215,7 @@ https://github.com/rengwuxian/MaterialEditText
 
 https://github.com/zst123/MaterialTextField  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialTextField-a.jpg" width="260" height="410" alt="Screenshot"/>
+
+### Animations
+https://github.com/gabrielemariotti/RecyclerViewItemAnimators  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/RecyclerViewItemAnimators.gif" width="260" height="410" alt="Screenshot"/>
