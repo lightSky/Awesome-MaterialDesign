@@ -90,6 +90,12 @@ https://github.com/saleeh93/Android-Material-support-libraries-Samples
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-support-libraries-Samples-c.png" width="260" height="410" alt="Screenshot"/>
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-support-libraries-Samples-d.png" width="260" height="410" alt="Screenshot"/>
 
+https://github.com/shawwinbin/MaterialDesignSupport  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSupport-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSupport-b.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSupport-c.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSupport-d.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSupport-e.png" width="260" height="410" alt="Screenshot"/>
 
 ### FAB
 https://github.com/FaizMalkani/FloatingActionButton（无图）  
