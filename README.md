@@ -8,9 +8,15 @@ Collection of material design libs and res.
 # 资源
 ### Material Design介绍：  
 http://www.google.com/design/spec/material-design/introduction.html  
+http://design.1sters.com(中文)
   
 ### 设计资源
 https://github.com/google/material-design-icons  
+https://github.com/intrications/material-design-icons-adt-template  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-design-icons-adt-template-a.png" width="540" height="410" alt="Screenshot"/> 
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-design-icons-adt-template-b.png" width="540" height="410" alt="Screenshot"/> 
+https://github.com/Templarian/MaterialDesign   
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesign-a.png" width="480" alt="Screenshot"/> 
 
 ### 官方Blog  
 [AppCompat v21 — Material Design for Pre-Lollipop Devices!](http://android-developers.blogspot.jp/2014/10/appcompat-v21-material-design-for-pre.html)  
@@ -44,10 +50,7 @@ https://github.com/navasmdc/MaterialDesignLibrary
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialDesignLibrary-h.png" width="260" height="410" alt="Screenshot"/>  
 
 https://github.com/keithellis/MaterialWidget    
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialWidget.png" width="480" height="410" alt="Screenshot"/>  
-
-https://github.com/rengwuxian/MaterialEditText  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialEditText-a.png" width="410" height="210" alt="Screenshot"/>  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialWidget.png" width="480" height="410" alt="Screenshot"/>   
 
 https://github.com/mikepenz/Android-LollipopShowcase  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-LollipopShowcase-a.jpg" width="260" height="410" alt="Screenshot"/>
@@ -66,7 +69,45 @@ https://github.com/dexafree/MaterialList
 
 https://github.com/saulmm/Android-Material-Example  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-Material-Example-a.gif" width="400" height="200" alt="Screenshot"/>
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-Material-Example-b.gif" width="260" height="410" alt="Screenshot"/>    
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/Android-Material-Example-b.gif" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/antoniolg/MaterialEverywhere   
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialEverywhere.gif" width="260" height="410" alt="Screenshot"/>    
+
+https://github.com/rejasupotaro/MaterialDesignSample  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSample-a.png" width="600" height="320" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSample-d.gif" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/xiprox/Material-Action-Bar-Sample  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Material-Action-Bar-Sample-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Material-Action-Bar-Sample-b.png" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/saleeh93/Android-Material-support-libraries-Samples  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-support-libraries-Samples-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-support-libraries-Samples-b.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-support-libraries-Samples-c.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-support-libraries-Samples-d.png" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/shawwinbin/MaterialDesignSupport  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSupport-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSupport-b.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSupport-c.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSupport-d.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesignSupport-e.png" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/sprik/notificationmaterial  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/notificationmaterial-a.png" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/aNNiMON/PaperStyleWidgets  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/PaperStyleWidgets-a.gif" alt="Screenshot"/>
+
+https://github.com/tekinarslan/AndroidMaterialDesignToolbar  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/AndroidMaterialDesignToolbar-a.gif" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/afollestad/material-dialogs  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-dialogs-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-dialogs-b.png" width="260" height="410" alt="Screenshot"/>
+
 
 ### FAB
 https://github.com/FaizMalkani/FloatingActionButton（无图）  
@@ -82,6 +123,13 @@ https://github.com/makovkastar/FloatingActionButton
 
 https://github.com/flavienlaurent/tickplusdrawable  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/tickplusdrawable.gif" width="180" height="280" alt="Screenshot"/>
+
+https://github.com/glomadrian/Android-Material-circular-button  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-circular-button-a.gif" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/onivas/MenuAnimation  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MenuAnimation-a.gif" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MenuAnimation-b.gif" width="260" height="410" alt="Screenshot"/>
 
 ### Menu & Drawer
 
@@ -100,6 +148,14 @@ https://github.com/neokree/MaterialTabs
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialTabs-a.png" width="260" height="410" alt="Screenshot"/>
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialTabs-b.png" width="260" height="410" alt="Screenshot"/>  
 
+https://github.com/lewisjdeane/L-Navigation-Drawer  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/L-Navigation-Drawer-a.png" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/DympyDev/Material_Navigationdrawer (无图)  
+https://github.com/datallboy/MaterialNavigation (无图)
+
+https://github.com/ChrisRenke/DrawerArrowDrawable  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/DrawerArrowDrawable.gif" width="460" alt="Screenshot"/>
 
 ### Tricks
 https://github.com/ksoichiro/Android-ObservableScrollView  
@@ -122,6 +178,13 @@ https://github.com/siriscac/RippleView
 https://github.com/skyfishjy/android-ripple-background  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/android-ripple-background-a.gif" width="260" height="410" alt="Screenshot"/>
 
+https://github.com/balysv/material-ripple  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-ripple-a.gif" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/03uk/RippleDrawable  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/RippleDrawable-a.jpg" alt="Screenshot"/>
+
+https://github.com/twang2218/material-design-toolkit (无图)
 
 ### Transition
 https://github.com/saulmm/android_L_preview_example(图太大)  
@@ -144,3 +207,33 @@ https://github.com/r0adkll/PostOffice
 
 https://github.com/lewisjdeane/L-Dialogs  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/L-Dialogs.jpg" width="1000" height="430" alt="Screenshot"/> 
+
+https://github.com/AndroidDeveloperLB/MaterialStuffLibrary  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialStuffLibrary-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialStuffLibrary-b.png" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/fengdai/AlertDialogPro  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/AlertDialogPro-a.png" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/AlertDialogPro-b.png" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/AlertDialogPro-c.png" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/AlertDialogPro-d.png" alt="Screenshot"/>
+
+### EditText
+https://github.com/rengwuxian/MaterialEditText  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialEditText-a.png" width="410" height="210" alt="Screenshot"/> 
+
+https://github.com/zst123/MaterialTextField  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialTextField-a.jpg" alt="Screenshot"/>
+
+### Animations
+https://github.com/gabrielemariotti/RecyclerViewItemAnimators  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/RecyclerViewItemAnimators.gif" width="260" height="410" alt="Screenshot"/>
+
+# 完整项目
+https://github.com/afollestad/cabinet  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-b.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-c.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-d.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-e.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-f.png" width="260" height="410" alt="Screenshot"/>
