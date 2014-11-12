@@ -11,12 +11,16 @@ http://www.google.com/design/spec/material-design/introduction.html
 http://design.1sters.com(中文)
   
 ### 设计资源
-https://github.com/google/material-design-icons  
-https://github.com/intrications/material-design-icons-adt-template  
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-design-icons-adt-template-a.png" width="540" height="410" alt="Screenshot"/> 
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-design-icons-adt-template-b.png" width="540" height="410" alt="Screenshot"/> 
+https://github.com/google/material-design-icons    
+
 https://github.com/Templarian/MaterialDesign   
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesign-a.png" width="480" alt="Screenshot"/> 
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesign-a.png" width="480" alt="Screenshot"/>   
+
+https://github.com/intrications/material-design-icons-adt-template  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-design-icons-adt-template-a.png" width="500" height="300" alt="Screenshot"/> 
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-design-icons-adt-template-b.png" width="500" height="300" alt="Screenshot"/>   
+
+
 
 ### 官方Blog  
 [AppCompat v21 — Material Design for Pre-Lollipop Devices!](http://android-developers.blogspot.jp/2014/10/appcompat-v21-material-design-for-pre.html)  
