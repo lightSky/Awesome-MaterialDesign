@@ -131,17 +131,18 @@ https://github.com/flavienlaurent/tickplusdrawable
 https://github.com/glomadrian/Android-Material-circular-button  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/Android-Material-circular-button-a.gif" width="260" height="410" alt="Screenshot"/>
 
-https://github.com/onivas/MenuAnimation  
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MenuAnimation-a.gif" alt="Screenshot"/>
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MenuAnimation-b.gif" width="260" height="410" alt="Screenshot"/>
 
-### Menu & Drawer
+
+### Menu & Drawer & Switch
 
 https://github.com/markushi/android-ui  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/android-ui-a.gif" width="80" height="80" alt="Screenshot"/>  
 
 https://github.com/balysv/material-menu  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/material-menu.gif" width="410" height="70" alt="Screenshot"/>  
+
+https://github.com/ChrisRenke/DrawerArrowDrawable  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/DrawerArrowDrawable.gif" width="460" alt="Screenshot"/>
 
 https://github.com/ikimuhendis/LDrawer  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/LDrawer.gif" width="260" height="410" alt="Screenshot"/>  
@@ -153,13 +154,22 @@ https://github.com/neokree/MaterialTabs
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialTabs-b.png" width="260" height="410" alt="Screenshot"/>  
 
 https://github.com/lewisjdeane/L-Navigation-Drawer  
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/L-Navigation-Drawer-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/L-Navigation-Drawer-a.png" width="260" height="410" alt="Screenshot"/>  
+
+https://github.com/neokree/MaterialNavigationDrawer  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialNavigationDrawer-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/MaterialNavigationDrawer-b.png" width="260" height="410" alt="Screenshot"/>    
+
+https://github.com/onivas/MenuAnimation  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MenuAnimation-a.gif" alt="Screenshot"/>
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MenuAnimation-b.gif" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/kyleduo/SwitchButton  
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/SwitchButton-a.jpg" width="40MaterialDesignSample0" height="410" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/SwitchButton-b.png" width="260" height="410" alt="Screenshot"/>  
 
 https://github.com/DympyDev/Material_Navigationdrawer (无图)  
 https://github.com/datallboy/MaterialNavigation (无图)
-
-https://github.com/ChrisRenke/DrawerArrowDrawable  
-<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/DrawerArrowDrawable.gif" width="460" alt="Screenshot"/>
 
 ### Tricks
 https://github.com/ksoichiro/Android-ObservableScrollView  
