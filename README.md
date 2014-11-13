@@ -165,7 +165,7 @@ https://github.com/onivas/MenuAnimation
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MenuAnimation-b.gif" width="260" height="410" alt="Screenshot"/>
 
 https://github.com/kyleduo/SwitchButton  
-<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/SwitchButton-a.jpg" width="40MaterialDesignSample0" height="410" alt="Screenshot"/>
+<img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/SwitchButton-a.jpg"  width="410" height="410" alt="Screenshot"/>
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/SwitchButton-b.png" width="260" height="410" alt="Screenshot"/>  
 
 https://github.com/DympyDev/Material_Navigationdrawer (无图)  
