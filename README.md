@@ -251,6 +251,8 @@ https://github.com/gabrielemariotti/RecyclerViewItemAnimators
 https://github.com/03uk/CircularReveal
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/CircularReveal.gif" alt="Screenshot"/>
 
+https://github.com/kyze8439690/RevealLayout
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/RevealLayout.gif" alt="Screenshot"/>
 
 # 完整项目
 https://github.com/afollestad/cabinet  
