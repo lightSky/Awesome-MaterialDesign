@@ -247,6 +247,13 @@ https://github.com/zst123/MaterialTextField
 https://github.com/gabrielemariotti/RecyclerViewItemAnimators  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/RecyclerViewItemAnimators.gif" width="260" height="410" alt="Screenshot"/>
 
+### Reveal
+https://github.com/03uk/CircularReveal  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/CircularReveal.gif" alt="Screenshot"/>
+
+https://github.com/kyze8439690/RevealLayout  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/RevealLayout.gif" alt="Screenshot"/>
+
 # 完整项目
 https://github.com/afollestad/cabinet  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-a.png" width="260" height="410" alt="Screenshot"/>
