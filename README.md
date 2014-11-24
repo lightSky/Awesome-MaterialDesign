@@ -263,3 +263,6 @@ https://github.com/afollestad/cabinet
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-d.png" width="260" height="410" alt="Screenshot"/>
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-e.png" width="260" height="410" alt="Screenshot"/>
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/cabinet-f.png" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/ekx/GitLabAndroid  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/GitLabAndroid.png"  alt="Screenshot"/>
