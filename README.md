@@ -266,3 +266,6 @@ https://github.com/afollestad/cabinet
 
 https://github.com/ekx/GitLabAndroid  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/GitLabAndroid.png"  alt="Screenshot"/>
+
+https://github.com/frogermcs/InstaMaterial  
+<img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/InstaMaterial.png" width="260" height="410" alt="Screenshot"/>
