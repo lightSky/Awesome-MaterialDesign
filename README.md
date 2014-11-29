@@ -172,6 +172,11 @@ https://github.com/kyleduo/SwitchButton
 https://github.com/pnikosis/materialish-progress  
 <img src="https://github.com/lightSky/MaterialDesignCenter/blob/master/demoRes/materiallish-progress.gif" width="290" height="210" alt="Screenshot"/>    
 
+https://github.com/AnderWeb/discreteSeekBar
+<img src="https://github.com/lightSky/discreteSeekBar/blob/master/demoRes/discreteSeekBar-a.gif" width="600" height="230" alt="Screenshot"/>    
+<img src="https://github.com/lightSky/discreteSeekBar/blob/master/demoRes/discreteSeekBar-b.gif" width="600" height="400" alt="Screenshot"/>    
+
+
 https://github.com/DympyDev/Material_Navigationdrawer (无图)  
 https://github.com/datallboy/MaterialNavigation (无图)   
 https://github.com/HeinrichReimer/material-drawer (无图) 
