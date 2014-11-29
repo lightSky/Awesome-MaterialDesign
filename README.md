@@ -25,7 +25,7 @@ https://github.com/intrications/material-design-icons-adt-template
 ### 官方Blog  
 [AppCompat v21 — Material Design for Pre-Lollipop Devices!](http://android-developers.blogspot.jp/2014/10/appcompat-v21-material-design-for-pre.html)  
 [Implementing material design in your Android app](http://android-developers.blogspot.jp/2014/10/implementing-material-design-in-your.html)  
-[Material Design on Android Checklist](http://android-developers.blogspot.jp/2014/10/material-design-on-android-checklist.html)  
+[Material Design on Android Checklist](http://android-developers.blogspot.jp/2014/10/matb.com/03uk/RippleDrawableerial-design-on-android-checklist.html)  
 ##### 译文
 [进入Material Design时代](http://blog.csdn.net/xushuaic/article/details/40627389)  
 [AppCompat V21：将 Materia Design 兼容到5.0之前的设备](http://blog.csdn.net/xushuaic/article/details/40212327)
@@ -69,8 +69,8 @@ https://github.com/romainguy/google-io-2014
 <img src="/demoRes/google-io-2014-b.png" width="260" height="410" alt="Screenshot"/>  
 
 https://github.com/dexafree/MaterialList  
-<img src="/demoRes/MaterialList-a.png" width="400" height="210" alt="Screenshot"/> 
-<img src="/demoRes/MaterialList-b.png" width="400" height="210" alt="Screenshot"/>  
+<img src="/demoRes/MaterialList-a.png" width="380" height="200" alt="Screenshot"/> 
+<img src="/demoRes/MaterialList-b.png" width="380" height="200" alt="Screenshot"/>  
 
 https://github.com/saulmm/Android-Material-Example  
 <img src="/demoRes/Android-Material-Example-a.gif" width="400" height="200" alt="Screenshot"/>
@@ -80,18 +80,18 @@ https://github.com/antoniolg/MaterialEverywhere
 <img src="/demoRes/MaterialEverywhere.gif" width="260" height="410" alt="Screenshot"/>    
 
 https://github.com/rejasupotaro/MaterialDesignSample  
-<img src="/demoRes/MaterialDesignSample-a.png" width="600" height="320" alt="Screenshot"/>
-<img src="/demoRes/MaterialDesignSample-d.gif" width="260" height="410" alt="Screenshot"/>
+<img src="/demoRes/MaterialDesignSample-d.gif" width="200" height="360" alt="Screenshot"/>
+<img src="/demoRes/MaterialDesignSample-a.png" width="570" height="320" alt="Screenshot"/>
+
 
 https://github.com/xiprox/Material-Action-Bar-Sample  
 <img src="/demoRes/Material-Action-Bar-Sample-a.png" width="260" height="410" alt="Screenshot"/>
 <img src="/demoRes/Material-Action-Bar-Sample-b.png" width="260" height="410" alt="Screenshot"/>
 
 https://github.com/saleeh93/Android-Material-support-libraries-Samples  
-<img src="/demoRes/Android-Material-support-libraries-Samples-a.png" width="260" height="410" alt="Screenshot"/>
-<img src="/demoRes/Android-Material-support-libraries-Samples-b.png" width="260" height="410" alt="Screenshot"/>
-<img src="/demoRes/Android-Material-support-libraries-Samples-c.png" width="260" height="410" alt="Screenshot"/>
-<img src="/demoRes/Android-Material-support-libraries-Samples-d.png" width="260" height="410" alt="Screenshot"/>
+<img src="/demoRes/Android-Material-support-libraries-Samples-a.png" width="240" height="380" alt="Screenshot"/>
+<img src="/demoRes/Android-Material-support-libraries-Samples-b.png" width="240" height="380" alt="Screenshot"/>
+<img src="/demoRes/Android-Material-support-libraries-Samples-c.png" width="240" height="380" alt="Screenshot"/>
 
 https://github.com/shawwinbin/MaterialDesignSupport  
 <img src="/demoRes/MaterialDesignSupport-a.png" width="260" height="410" alt="Screenshot"/>
@@ -130,7 +130,7 @@ https://github.com/flavienlaurent/tickplusdrawable
 <img src="/demoRes/tickplusdrawable.gif" width="180" height="280" alt="Screenshot"/>
 
 https://github.com/glomadrian/Android-Material-circular-button  
-<img src="/master/demoRes/Android-Material-circular-button-a.gif" width="260" height="410" alt="Screenshot"/>
+<img src="/demoRes/Android-Material-circular-button-a.gif" width="260" height="410" alt="Screenshot"/>
 
 
 
@@ -207,7 +207,7 @@ https://github.com/balysv/material-ripple
 <img src="/demoRes/material-ripple-a.gif" width="260" height="410" alt="Screenshot"/>
 
 https://github.com/03uk/RippleDrawable  
-<img src="/demoRes/RippleDrawable-a.jpg" alt="Screenshot"/>
+<img src="/demoRes/RippleDrawable-a.jpg"  alt="Screenshot"/>
 
 https://github.com/twang2218/material-design-toolkit (无图)
 
