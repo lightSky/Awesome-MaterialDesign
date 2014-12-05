@@ -8,7 +8,7 @@ Collection of material design libs and res.
 # 资源
 ### Material Design介绍：  
 http://www.google.com/design/spec/material-design/introduction.html  
-[MaterialDesign中文文档](http://design.1sters.com/)
+[MaterialDesign中文文档](http://design.1sters.com/)  
 [官方放出的大量Demo，含MaterialDesign相关](https://github.com/googlesamples)
   
 ### 设计资源
@@ -264,7 +264,7 @@ https://github.com/kyze8439690/RevealLayout
 
 # 完整项目
 https://github.com/chrisbanes/philm  
-<img src="/demoRes/philm.gif" width="260" height="410" alt="Screenshot"/>
+<img src="/demoRes/philm.gif" width="260" height="410" alt="Screenshot"/>  
 https://github.com/afollestad/cabinet  
 <img src="/demoRes/cabinet-a.png" width="260" height="410" alt="Screenshot"/>
 <img src="/demoRes/cabinet-b.png" width="260" height="410" alt="Screenshot"/>
