@@ -8,8 +8,8 @@ Collection of material design libs and res.
 # 资源
 ### Material Design介绍：  
 http://www.google.com/design/spec/material-design/introduction.html  
-http://design.1sters.com(中文)  
-https://github.com/googlesamples(官方放出的大量Demo，含MaterialDesign相关)
+[MaterialDesign中文文档](http://design.1sters.com/)
+[官方放出的大量Demo，含MaterialDesign相关](https://github.com/googlesamples)
   
 ### 设计资源
 https://github.com/google/material-design-icons    
@@ -21,7 +21,7 @@ https://github.com/intrications/material-design-icons-adt-template
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-design-icons-adt-template-a.png" width="500" height="300" alt="Screenshot"/> 
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/material-design-icons-adt-template-b.png" width="500" height="300" alt="Screenshot"/>   
 
-https://github.com/Malinskiy/android-material-icons(无图)  
+[android-material-icons](https://github.com/Malinskiy/android-material-icons)(无图)  
 
 ### 官方Blog  
 [AppCompat v21 — Material Design for Pre-Lollipop Devices!](http://android-developers.blogspot.jp/2014/10/appcompat-v21-material-design-for-pre.html)  
@@ -116,7 +116,7 @@ https://github.com/afollestad/material-dialogs
 
 
 ### FAB
-https://github.com/FaizMalkani/FloatingActionButton（无图）  
+https://github.com/FaizMalkani/FloatingActionButton  
 https://github.com/futuresimple/android-floating-action-button  
 <img src="/demoRes/android-floating-action-button-a.gif" width="120" height="320" alt="Screenshot"/>
 <img src="/demoRes/android-floating-action-button-b.png" width="120" height="120" alt="Screenshot"/>  
@@ -213,7 +213,7 @@ https://github.com/03uk/RippleDrawable
 https://github.com/twang2218/material-design-toolkit (无图)
 
 ### Transition
-https://github.com/saulmm/android_L_preview_example(图太大)  
+https://github.com/saulmm/android_L_preview_example (图太大)  
 https://github.com/andkulikov/transitions-everywhere  
 <img src="/demoRes/transitions-everywhere.gif" width="260" height="410" alt="Screenshot"/>
 
