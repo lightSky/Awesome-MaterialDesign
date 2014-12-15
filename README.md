@@ -262,6 +262,13 @@ https://github.com/03uk/CircularReveal
 https://github.com/kyze8439690/RevealLayout  
 <img src="/demoRes/RevealLayout.gif" alt="Screenshot"/>
 
+### TextDrawable
+https://github.com/amulyakhare/TextDrawable
+
+<img src="/demoRes/TextDrawable-a.png" width="260" height="410" alt="Screenshot"/>
+<img src="/demoRes/TextDrawable-b.png" width="260" height="410" alt="Screenshot"/>
+
+
 # 完整项目
 https://github.com/chrisbanes/philm  
 <img src="/demoRes/philm.gif" width="260" height="410" alt="Screenshot"/>  
