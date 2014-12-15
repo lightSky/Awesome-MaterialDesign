@@ -262,6 +262,9 @@ https://github.com/03uk/CircularReveal
 https://github.com/kyze8439690/RevealLayout  
 <img src="/demoRes/RevealLayout.gif" alt="Screenshot"/>
 
+https://github.com/ferdy182/Android-CircularRevealFragment  
+<img src="/demoRes/Android-CircularRevealFragment.gif" width="260" height="410" alt="Screenshot"/>
+
 # 完整项目
 https://github.com/chrisbanes/philm  
 <img src="/demoRes/philm.gif" width="260" height="410" alt="Screenshot"/>  
