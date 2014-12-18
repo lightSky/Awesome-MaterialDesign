@@ -13,6 +13,8 @@ http://www.google.com/design/spec/material-design/introduction.html
   
 ### 设计资源
 https://github.com/google/material-design-icons    
+http://www.materialup.com/       Daily showcase of the best Material Design websites and apps! 
+http://www.materialpalette.com/  快速搭配Material Design主题颜色的并且提供下载的在线网站
 
 https://github.com/Templarian/MaterialDesign   
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/MaterialDesign-a.png" width="480" alt="Screenshot"/>   
