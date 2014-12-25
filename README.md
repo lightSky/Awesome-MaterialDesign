@@ -45,8 +45,15 @@ https://www.youtube.com/watch?v=97SWYiRtF0Y&feature=youtu.be
 https://www.youtube.com/watch?v=S3H7nJ4QaD8  
 https://skillsmatter.com/skillscasts/5627-material-design
 
-# Material Libs  
+### Blog教程  
+[How to upgrade your app’s design from Holo to Material Design — A case study](https://medium.com/@orhnsnmz/how-to-upgrade-your-apps-design-from-holo-to-material-design-a-case-study-f77e33a528c8)  
+[My Journey to Lollipop Transitions: part 1](http://jimulabs.com/2014/12/journey-lollipop-transitions-part-1/?utm_source=Android+Weekly&utm_campaign=5b8f334ff8-Android_Weekly_133&utm_medium=email&utm_term=0_4eb677ad19-5b8f334ff8-337298809)  
+[Content Transitions In-Depth (part 2)](http://www.androiddesignpatterns.com/2014/12/activity-fragment-content-transitions-in-depth-part2.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+androiddesignpatterns+%28Android+Design+Patterns%29)
 
+### MaterialDesign设计网站  
+http://www.materialup.com/
+
+# Material Libs  
 ### 示例集合
 https://github.com/navasmdc/MaterialDesignLibrary  
 <img src="/demoRes/MaterialDesignLibrary-a.png" width="160" height="100" alt="Screenshot"/> 
