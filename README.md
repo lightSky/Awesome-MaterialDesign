@@ -1,9 +1,11 @@
 MaterialDesignCenter
 ==================
 
-Collection of material design libs and res.  
->如果你也有不错的Material Design相关资源，可直接Commit，但在Commit之前，请进行Preview changes，看一下预览图.根据提交的项目，尽量选取几张具有代表性的图片，正常3张图片放在一排应该能代表该项目，如果比较特殊，可以另起一行放置，图片的命名和规格可以参照已提交的图片，因为该项目的主很多地方都是效果展示，为保持整体的一致性和美观性，请大家尽量遵循以上规则，欢迎大家Star、Fork :)。
+汇集MaterialDesigh相关的各种资源.  
+>如果你也有不错的Material Design相关资源，可直接Commit，但在Commit之前，请进行Preview changes，看一下预览图.根据提交的项目，尽量选取几张具有代表性的图片，正常3张图片放在一排应该能代表该项目，如果比较特殊，可以另起一行放置，图片的命名和规格可以参照已提交的图片，因为该项目的主很多地方都是效果展示，为保持整体的一致性和美观性，请大家尽量>遵循以上规则，欢迎大家Star、Fork :)。
 
+**关于我**    &nbsp;&nbsp;&nbsp;&nbsp;
+微博: [light_sky](http://www.weibo.com/lightSkyStreet)&nbsp;&nbsp;&nbsp;&nbsp; Blog:[lightskystreet.com](http://www.lightskystreet.com/)   &nbsp;&nbsp;&nbsp;&nbsp;邮箱: huberycarl@gmail.com  
 
 # 资源
 ### Material Design介绍：  
