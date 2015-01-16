@@ -303,3 +303,6 @@ https://github.com/ekx/GitLabAndroid
 
 https://github.com/frogermcs/InstaMaterial  
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/InstaMaterial.png" width="260" height="410" alt="Screenshot"/>
+
+https://github.com/xiprox/WaniKani-for-Android  
+<img src="/demoRes/WaniKani-for-Android.png" width="480" height="240" alt="Screenshot"/>
