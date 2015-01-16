@@ -174,6 +174,9 @@ https://github.com/neokree/MaterialNavigationDrawer
 <img src="/demoRes/MaterialNavigationDrawer-a.png" width="260" height="410" alt="Screenshot"/>
 <img src="/demoRes/MaterialNavigationDrawer-b.png" width="260" height="410" alt="Screenshot"/>    
 
+https://github.com/rudsonlive/NavigationDrawer-MaterialDesign  
+<img src="/demoRes/navigationdrawer-materialdesign.png" width="260" height="410" alt="Screenshot"/>    
+
 https://github.com/onivas/MenuAnimation  
 <img src="/demoRes/MenuAnimation-a.gif" alt="Screenshot"/>
 <img src="/demoRes/MenuAnimation-b.gif" width="260" height="410" alt="Screenshot"/>
