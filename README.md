@@ -227,7 +227,12 @@ https://github.com/balysv/material-ripple
 https://github.com/03uk/RippleDrawable  
 <img src="/demoRes/RippleDrawable-a.jpg"  alt="Screenshot"/>
 
-https://github.com/twang2218/material-design-toolkit (无图)
+https://github.com/twang2218/material-design-toolkit (无图)  
+
+### Palette  
+https://github.com/saulmm/OpenLibra-Material  
+<img src="/demoRes/openlibra-material.gif"  alt="Screenshot"/>
+
 
 ### Transition
 https://github.com/saulmm/android_L_preview_example (图太大)  
