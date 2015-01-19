@@ -231,7 +231,7 @@ https://github.com/twang2218/material-design-toolkit (无图)
 
 ### Palette  
 https://github.com/saulmm/OpenLibra-Material  
-<img src="/demoRes/openlibra-material.gif"  alt="Screenshot"/>
+<img src="/demoRes/openlibra-material.gif" width="260" height="410" alt="Screenshot"/>
 
 
 ### Transition
