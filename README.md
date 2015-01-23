@@ -42,11 +42,12 @@ Google  2014: https://github.com/google/iosched
 <img src="/demoRes/iosched-d.jpg" width="230" height="400" alt="Screenshot"/>  
 （下载地址：http://vdisk.weibo.com/s/av06eFs1kWSeE  如果需要梯子，文件夹下的另一个fqrouter会帮到你）    
 
-### 个人Blog教程  
+### 个人教程  
 [How to upgrade your app’s design from Holo to Material Design — A case study](https://medium.com/@orhnsnmz/how-to-upgrade-your-apps-design-from-holo-to-material-design-a-case-study-f77e33a528c8)  
 [My Journey to Lollipop Transitions: part 1](http://jimulabs.com/2014/12/journey-lollipop-transitions-part-1/?utm_source=Android+Weekly&utm_campaign=5b8f334ff8-Android_Weekly_133&utm_medium=email&utm_term=0_4eb677ad19-5b8f334ff8-337298809)  
 [Content Transitions In-Depth (part 2)](http://www.androiddesignpatterns.com/2014/12/activity-fragment-content-transitions-in-depth-part2.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+androiddesignpatterns+%28Android+Design+Patterns%29)  
-[Material design in the 2014 Google I/O app](https://medium.com/google-design/material-design-in-the-2014-google-i-o-app-e3b22caffae6)
+[Material design in the 2014 Google I/O app](https://medium.com/google-design/material-design-in-the-2014-google-i-o-app-e3b22caffae6)  
+[MaterialDesigh 学习笔记](http://www.uisdc.com/comprehensive-material-design-note#368390-tsina-1-73915-ebfdadd9b239798c6a2035c828aafd11)
 
 ### 视频教程
 https://www.youtube.com/watch?v=97SWYiRtF0Y&feature=youtu.be  
