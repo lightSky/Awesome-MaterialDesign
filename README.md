@@ -315,4 +315,4 @@ https://github.com/xiprox/WaniKani-for-Android
 
 <https://github.com/Grarak/KernelAdiutor>
 
-<img src="https://lh6.ggpht.com/8xc4cK7maDVFE2jE456SUztEmNKuVJRJxwEy-urPhS5LGrFU68Dmwf0-uYy4yVI2QQ=h900-rw" width="960" height="540" alt="Screenshot"/>
+<img src="https://lh6.ggpht.com/8xc4cK7maDVFE2jE456SUztEmNKuVJRJxwEy-urPhS5LGrFU68Dmwf0-uYy4yVI2QQ=h900-rw" width="480" height="270" alt="Screenshot"/>
