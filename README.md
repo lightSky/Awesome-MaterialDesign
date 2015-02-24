@@ -190,6 +190,9 @@ https://github.com/kyleduo/SwitchButton
 https://github.com/pnikosis/materialish-progress  
 <img src="/demoRes/materiallish-progress.gif" width="290" height="210" alt="Screenshot"/>    
 
+https://github.com/lsjwzh/MaterialLoadingProgressBar    
+<img src="https://github.com/lsjwzh/MaterialLoadingProgressBar/blob/master/screen_1.gif" width="260" height="410" alt="Screenshot"/>    
+
 https://github.com/AnderWeb/discreteSeekBar  
 <img src="/demoRes/discreteSeekBar-a.gif" width="450" height="160" alt="Screenshot"/>    
 <img src="/demoRes/discreteSeekBar-b.gif" width="450" height="270" alt="Screenshot"/>    
