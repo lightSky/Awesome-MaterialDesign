@@ -237,6 +237,8 @@ https://github.com/twang2218/material-design-toolkit (无图)
 https://github.com/saulmm/OpenLibra-Material  
 <img src="/demoRes/openlibra-material.gif" width="260" height="410" alt="Screenshot"/>
 
+https://github.com/novoda/material-painter  
+<img src="/demoRes/material-painter.gif" width="260" height="410" alt="Screenshot"/>  
 
 ### Transition
 https://github.com/saulmm/android_L_preview_example (图太大)  
