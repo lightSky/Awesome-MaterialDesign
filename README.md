@@ -316,4 +316,7 @@ https://github.com/frogermcs/InstaMaterial
 <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/InstaMaterial.png" width="260" height="410" alt="Screenshot"/>
 
 https://github.com/xiprox/WaniKani-for-Android  
-<img src="/demoRes/WaniKani-for-Android.png" width="480" height="240" alt="Screenshot"/>
+<img src="/demoRes/WaniKani-for-Android.png" width="480" height="260" alt="Screenshot"/>  
+
+https://github.com/heruoxin/Clip-Stack  
+<img src="/demoRes/Clip-Stack.jpg" width="840" height="240" alt="Screenshot"/>
