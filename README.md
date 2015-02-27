@@ -319,4 +319,4 @@ https://github.com/xiprox/WaniKani-for-Android
 <img src="/demoRes/WaniKani-for-Android.png" width="480" height="240" alt="Screenshot"/>  
 
 https://github.com/heruoxin/Clip-Stack  
-<img src="/demoRes/Clip-Stack.jpg" width="950" height="350" alt="Screenshot"/>
+<img src="/demoRes/Clip-Stack.jpg" width="860" height="290" alt="Screenshot"/>
