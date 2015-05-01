@@ -127,6 +127,9 @@ https://github.com/afollestad/material-dialogs
 <img src="/demoRes/material-dialogs-a.png" width="260" height="410" alt="Screenshot"/>
 <img src="/demoRes/material-dialogs-b.png" width="260" height="410" alt="Screenshot"/>
 
+https://github.com/yueban/MaterialTextScaleToolbarDemo  
+<img src="/demoRes/MaterialTextScaleToolbarDemo.gif" width="260" height="410" alt="Screenshot"/>
+
 
 ### FAB
 https://github.com/FaizMalkani/FloatingActionButton  
