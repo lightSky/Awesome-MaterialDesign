@@ -179,7 +179,7 @@ Name | Demo
 --- | --- 
 [TextDrawable](https://github.com/amulyakhare/TextDrawable) | <img src="/demoRes/TextDrawable-a.png" width="260" height="410" alt="Screenshot"/> <img src="/demoRes/TextDrawable-b.png" width="260" height="410" alt="Screenshot"/>
 
-# 完整项目
+# Project
 Name | Demo 
 --- | ---
 [philm](https://github.com/chrisbanes/philm) | <img src="/demoRes/philm.gif" width="260" height="410" alt="Screenshot"/>
