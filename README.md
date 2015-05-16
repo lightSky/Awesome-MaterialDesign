@@ -14,6 +14,7 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 * [AppCompat v21 — Material Design for Pre-Lollipop Devices!](http://android-developers.blogspot.jp/2014/10/appcompat-v21-material-design-for-pre.html)  
 * [Implementing material design in your Android app](http://android-developers.blogspot.jp/2014/10/implementing-material-design-in-your.html)  
 * [Material Design on Android Checklist](http://android-developers.blogspot.jp/2014/10/matb.com/03uk/RippleDrawableerial-design-on-android-checklist.html)  
+
 ##### Translate
 * [进入Material Design时代](http://blog.csdn.net/xushuaic/article/details/40627389)  
 * [AppCompat V21：将 Materia Design 兼容到5.0之前的设备](http://blog.csdn.net/xushuaic/article/details/40212327)
@@ -37,7 +38,7 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 * [material-design-icons](https://github.com/google/material-design-icons)  
 * [www.materialup.com](http://www.materialup.com/)  
 * [www.materialpalette.com](http://www.materialpalette.com/)   
-[Design resources for Material Design](https://github.com/Templarian/MaterialDesign)     
+* [Design resources for Material Design](https://github.com/Templarian/MaterialDesign)     
 * [android-material-icons](https://github.com/Malinskiy/android-material-icons)  
 * [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template)  
 
@@ -53,11 +54,8 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 * [Material design & implementation](https://skillsmatter.com/skillscasts/5627-material-design)  
 * [Google I/O 2014 - Material witness: How Android material applications work](https://www.youtube.com/watch?v=97SWYiRtF0Y&feature=youtu.be)  
 
-
-
 # Material Libs  
 ## 示例集合
-
 Name|Demo
 --- | ---
 [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) | <img src="/demoRes/MaterialDesignLibrary-a.png" width="160" height="100" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-b.png" width="120" height="60" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-c.png" width="130" height="60" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-d.png" width="130" height="60" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-e.png" width="130" height="60" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-h.png" width="260" height="410" alt="Screenshot"/>
@@ -191,7 +189,8 @@ Name | Demo
 [GitLabAndroid](https://github.com/ekx/GitLabAndroid) | <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/GitLabAndroid.png"  alt="Screenshot"/>
 [cabinet](https://github.com/afollestad/cabinet) | <img src="/demoRes/cabinet-a.png" width="260" height="410" alt="Screenshot"/> <img src="/demoRes/cabinet-b.png" width="260" height="410" alt="Screenshot"/> <img src="/demoRes/cabinet-c.png" width="260" height="410" alt="Screenshot"/> <img src="/demoRes/cabinet-d.png" width="260" height="410" alt="Screenshot"/>
 
-
-
-**About me**    &nbsp;&nbsp;&nbsp;&nbsp;
-weibo: [light_sky](http://www.weibo.com/lightSkyStreet)&nbsp;&nbsp;&nbsp;&nbsp; Blog:[lightskystreet.com](http://www.lightskystreet.com/)   &nbsp;&nbsp;&nbsp;&nbsp;email: huberycarl@gmail.com  
+#About Me
+weibo: [light_sky](http://www.weibo.com/lightSkyStreet)  
+twitter:  [lightSkyStreet](https://twitter.com/lightSkyStreet)  
+Blog:  [lightskystreet.com](http://www.lightskystreet.com/)   
+email: huberycarl@gmail.com  
