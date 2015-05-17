@@ -74,6 +74,7 @@ Name|Demo
 [notificationmaterial](https://github.com/sprik/notificationmaterial)   | <img src="/demoRes/notificationmaterial-a.png" width="180" height="290" alt="Screenshot"/>
 [AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar) | <img src="/demoRes/AndroidMaterialDesignToolbar-a.gif" width="180" height="290" alt="Screenshot"/>
 [Android-L-Preview-Concepts](https://github.com/saulmm/android_L_preview_example) | <img src="/demoRes/Android-L-Preview-Concepts.gif" width="180" height="290"/>
+[OpenLibra-Material](https://github.com/saulmm/OpenLibra-Material) | <img src="/demoRes/openlibra-material.gif" width="180" height="290" alt="Screenshot"/>
 
 ### FAB
 Name|Demo
@@ -91,6 +92,7 @@ Name | Demo
 [material-menu](https://github.com/balysv/material-menu) | <img src="/demoRes/material-menu.gif" width="290" height="50" alt="Screenshot"/>
 [DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable) | <img src="/demoRes/DrawerArrowDrawable.gif" width="290" height="110" alt="Screenshot"/>
 [LDrawer](https://github.com/ikimuhendis/LDrawer)  | <img src="/demoRes/LDrawer.gif" width="180" height="290" alt="Screenshot"/>
+[MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)  | <img src="/demoRes/MaterialDrawer-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/MaterialDrawer-b.png" width="180" height="290" alt="Screenshot"/>
 [android-material-drawer-template](https://github.com/kanytu/android-material-drawer-template)  | <img src="/demoRes/android-material-drawer-template.gif" width="180" height="290" alt="Screenshot"/>
 [MaterialTabs](https://github.com/neokree/MaterialTabs)   | <img src="/demoRes/MaterialTabs-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/MaterialTabs-b.png" width="180" height="290" alt="Screenshot"/>
 [L-Navigation-Drawer](https://github.com/lewisjdeane/L-Navigation-Drawer)  | <img src="/demoRes/L-Navigation-Drawer-a.png" width="180" height="290" alt="Screenshot"/>
@@ -99,7 +101,18 @@ Name | Demo
 [MenuAnimation](https://github.com/onivas/MenuAnimation) | <img src="/demoRes/MenuAnimation-b.gif" width="180" height="290" alt="Screenshot"/>
 [Material_Navigationdrawer](https://github.com/DympyDev/Material_Navigationdrawer) | (无图)
 [MaterialNavigation](https://github.com/datallboy/MaterialNavigation) |  (无图)
-[material-drawer ](https://github.com/HeinrichReimer/material-drawer ) | (无图)
+[material-drawer](https://github.com/HeinrichReimer/material-drawer ) | (无图)
+
+### View
+Name | Demo
+--- | ---
+[MaterialImageView](https://github.com/zhaozhentao/MaterialImageView) | <img src="/demoRes/MaterialImageView.png" width="180" height="290" alt="Screenshot"/>
+[MaterialViewPager](https://github.com/florent37/MaterialViewPager) | <img src="/demoRes/MaterialViewPager-a.gif" width="180" height="290" alt="Screenshot"/>
+[android-pathview](https://github.com/geftimov/android-pathview) | <img src="/demoRes/android-pathview-a.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/android-pathview-b.gif" width="180" height="290" alt="Screenshot"/>
+
+
+
+
 
 ### Widget
 Name | Demo
@@ -108,11 +121,19 @@ Name | Demo
 [materialish-progress](https://github.com/pnikosis/materialish-progress)  | <img src="/demoRes/materiallish-progress.gif" width="180" height="160" alt="Screenshot"/>
 [MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar) | <img src="https://github.com/lsjwzh/MaterialLoadingProgressBar/blob/master/screen_1.gif" width="180" height="290" alt="Screenshot"/>
 [discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | <img src="/demoRes/discreteSeekBar-a.gif" width="450" height="160" alt="Screenshot"/> <img src="/demoRes/discreteSeekBar-b.gif" width="350" height="220" alt="Screenshot"/>
+[material-range-bar](https://github.com/oli107/material-range-bar) | <img src="/demoRes/material-range-bar.gif" width="180" height="290" alt="Screenshot"/>
+[material-calendarview](https://github.com/prolificinteractive/material-calendarview) | <img src="/demoRes/material-calendarview.gif" width="230" height="290" alt="Screenshot"/>
+[SwipyRefreshLayout](https://github.com/OrangeGangsters/SwipyRefreshLayout) | <img src="/demoRes/SwipyRefreshLayout.gif" width="180" height="290" alt="Screenshot"/>
+
+
 
 ### SnackBar
 Name | Demo
 --- | ---
 [SnackBar](https://github.com/Kennyc1012/SnackBar) | <img src="/demoRes/SnackBar.gif" width="180" height="290" alt="Screenshot"/>
+[snackbar](https://github.com/nispok/snackbar) | <img src="/demoRes/snackbar-a.png" width="180" height="290" alt="Screenshot"/>
+
+
 
 ### Tricks
 Name | Demo
@@ -136,13 +157,14 @@ Name | Demo
 ### Palette
 Name | Demo
 --- | ---
-[OpenLibra-Material](https://github.com/saulmm/OpenLibra-Material) | <img src="/demoRes/openlibra-material.gif" width="180" height="290" alt="Screenshot"/>
 [material-painter](https://github.com/novoda/material-painter) | <img src="/demoRes/material-painter.gif" width="180" height="290" alt="Screenshot"/>
 
 ### Transition
 Name | Demo
 --- | ---
 [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) | <img src="/demoRes/transitions-everywhere.gif" width="180" height="290" alt="Screenshot"/>
+[PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition) | <img src="/demoRes/PreLollipopTransition-a.gif" width="180" height="290" alt="Screenshot"/>
+[Material-Animations](https://github.com/lgvalle/Material-Animations) | <img src="/demoRes/Material-Animations.gif" width="180" height="290" alt="Screenshot"/>
 
 ### Vector
 Name | Demo
@@ -177,6 +199,8 @@ Name | Demo
 [CircularReveal](https://github.com/03uk/CircularReveal) | <img src="/demoRes/CircularReveal.gif" width="180" height="290" alt="Screenshot"/>
 [RevealLayout](https://github.com/kyze8439690/RevealLayout) | <img src="/demoRes/RevealLayout.gif" width="180" height="290" alt="Screenshot"/>
 [CircularRevealFragment](https://github.com/ferdy182/Android-CircularRevealFragment) | <img src="/demoRes/Android-CircularRevealFragment.gif" width="180" height="290" alt="Screenshot"/>
+[ViewRevealAnimator](https://github.com/sephiroth74/ViewRevealAnimator) | <img src="/demoRes/Android-ViewRevealAnimator.gif" width="180" height="290" alt="Screenshot"/>
+
 
 ### TextDrawable
 Name | Demo
@@ -188,6 +212,7 @@ Name | Demo
 --- | ---
 [philm](https://github.com/chrisbanes/philm) | <img src="/demoRes/philm.gif" width="180" height="290" alt="Screenshot"/>
 [InstaMaterial](https://github.com/frogermcs/InstaMaterial) | <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/InstaMaterial.png" width="180" height="290" alt="Screenshot"/>
+[Material-Movies](https://github.com/saulmm/Material-Movies) | <img src="/demoRes/Material-Movies.png" width="480" height="240" alt="Screenshot"/>
 [WaniKani-for-Android](https://github.com/xiprox/WaniKani-for-Android)  | <img src="/demoRes/WaniKani-for-Android.png" width="480" height="240" alt="Screenshot"/>
 [KernelAdiutor](https://github.com/Grarak/KernelAdiutor) | <img src="https://lh6.ggpht.com/8xc4cK7maDVFE2jE456SUztEmNKuVJRJxwEy-urPhS5LGrFU68Dmwf0-uYy4yVI2QQ=h900-rw" width="480" height="270" alt="Screenshot"/>
 [GitLabAndroid](https://github.com/ekx/GitLabAndroid) | <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/GitLabAndroid.png"  alt="Screenshot"/>
