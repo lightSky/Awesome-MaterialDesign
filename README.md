@@ -3,7 +3,17 @@ Awesome-MaterialDesign
 
 A curated list of awesome Android MaterialDesign res and libraries. Feel free to contrubute.
 
-# Res
+##Other Awesome List
+[awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)  
+[awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)  
+[awesome-swift](https://github.com/matteocrippa/awesome-swift)  
+[awesome-android](https://github.com/snowdream/awesome-android)  
+[awesome-resources](https://github.com/lyfeyaj/awesome-resources)  
+[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)  
+[awesome-java](https://github.com/akullpp/awesome-java)  
+[awesome-svg](https://github.com/willianjusten/awesome-svg)
+
+
 ## Doc
 * [material-design introduction](http://www.google.com/design/spec/material-design/introduction.html)
 * [MaterialDesign中文文档](http://design.1sters.com/)
@@ -14,7 +24,7 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 * [Implementing material design in your Android app](http://android-developers.blogspot.jp/2014/10/implementing-material-design-in-your.html)
 * [Material Design on Android Checklist](http://android-developers.blogspot.jp/2014/10/matb.com/03uk/Rerial-design-on-android-checklist.html)
 
-##### Translate
+#### Translate
 * [进入Material Design时代](http://blog.csdn.net/xushuaic/article/details/40627389)
 * [AppCompat V21：将 Materia Design 兼容到5.0之前的设备](http://blog.csdn.net/xushuaic/article/details/40212327)
 
@@ -48,7 +58,7 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 * [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template)
 * [Design resources for Material Design](https://github.com/Templarian/MaterialDesign)
 
-### Video
+## Video
 * [Material design & implementation](https://skillsmatter.com/skillscasts/5627-material-design)
 * [Google I/O 2014 - Material witness: How Android material applications work](https://www.youtube.com/watch?v=97SWYiRtF0Y&feature=youtu.be)
 
