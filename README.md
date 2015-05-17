@@ -104,6 +104,7 @@ Name | Demo
 [android-ui](https://github.com/markushi/android-ui) | <img src="/demoRes/android-ui-a.gif" width="70" height="70" alt="Screenshot"/>
 [material-menu](https://github.com/balysv/material-menu) | <img src="/demoRes/material-menu.gif" width="290" height="50" alt="Screenshot"/>
 [DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable) | <img src="/demoRes/DrawerArrowDrawable.gif" width="290" height="110" alt="Screenshot"/>
+[RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton)  | <img src="/demoRes/RapidFloatingActionButton-a.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/RapidFloatingActionButton-b.gif" width="180" height="290" alt="Screenshot"/>
 [LDrawer](https://github.com/ikimuhendis/LDrawer)  | <img src="/demoRes/LDrawer.gif" width="180" height="290" alt="Screenshot"/>
 [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)  | <img src="/demoRes/MaterialDrawer-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/MaterialDrawer-b.png" width="180" height="290" alt="Screenshot"/>
 [android-material-drawer-template](https://github.com/kanytu/android-material-drawer-template)  | <img src="/demoRes/android-material-drawer-template.gif" width="180" height="290" alt="Screenshot"/>
@@ -188,6 +189,7 @@ Name | Demo
 ## Vector & SVG & path-view
 Name | Demo
 --- | ---
+[vector-compat](https://github.com/wnafee/vector-compat)  | <img src="/demoRes/vector-compat-a.gif" width="80" height="80" alt="Screenshot"/> <img src="/demoRes/vector-compat-b.gif" width="110" height="80" alt="Screenshot"/> <img src="/demoRes/vector-compat-c.gif" width="110" height="80" alt="Screenshot"/>
 [animated-vector-drawable](https://github.com/chiuki/animated-vector-drawable) | <img src="/demoRes/animated-vector-drawable.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/animated-vector-drawable-b.gif" width="180" height="290" alt="Screenshot"/>
 [android-pathview](https://github.com/geftimov/android-pathview) | <img src="/demoRes/android-pathview-a.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/android-pathview-b.gif" width="180" height="290" alt="Screenshot"/>
 [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) | [SVG-Loaders-Previewed](http://samherbert.net/svg-loaders/)
