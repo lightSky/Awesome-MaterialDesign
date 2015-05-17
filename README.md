@@ -135,6 +135,7 @@ Name | Demo
 [material-range-bar](https://github.com/oli107/material-range-bar) | <img src="/demoRes/material-range-bar.gif" width="180" height="290" alt="Screenshot"/>
 [material-calendarview](https://github.com/prolificinteractive/material-calendarview) | <img src="/demoRes/material-calendarview.gif" width="230" height="290" alt="Screenshot"/>
 [SwipyRefreshLayout](https://github.com/OrangeGangsters/SwipyRefreshLayout) | <img src="/demoRes/SwipyRefreshLayout.gif" width="180" height="290" alt="Screenshot"/>
+[BetterSpinner](https://github.com/Lesilva/BetterSpinner) | <img src="/demoRes/BetterSpinner.gif" width="180" height="290" alt="Screenshot"/>
 
 ## EditText
 Name | Demo
@@ -185,6 +186,7 @@ Name | Demo
 [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) | <img src="/demoRes/Android-ObservableScrollView-a.gif" width="220" height="180" alt="Screenshot"/> <img src="/demoRes/Android-ObservableScrollView-c.gif" width="220" height="280" alt="Screenshot"/>
 [ViewPagerHeaderScrollDemo](https://github.com/ongakuer/ViewPagerHeaderScrollDemo) | <img src="/demoRes/viewpagerheaderdemo.gif" width="180" height="290" alt="Screenshot"/>
 [MaterialTextScaleToolbarDemo](https://github.com/yueban/MaterialTextScaleToolbarDemo)| <img src="/demoRes/MaterialTextScaleToolbarDemo.gif" width="180" height="290"/>
+[Scrollable](https://github.com/noties/Scrollable)| <img src="/demoRes/Scrollable.gif" width="180" height="290"/>
 
 ## Vector & SVG & path-view
 Name | Demo
