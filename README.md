@@ -127,7 +127,7 @@ Name | Demo
 ## Widget
 Name | Demo
 --- | ---
-[materialish-progress](https://github.com/pnikosis/materialish-progress)  | <img src="/demoRes/materiallish-progress.gif" width="180" height="160" alt="Screenshot"/>
+[materialish-progress](https://github.com/pnikosis/materialish-progress)  | <img src="/demoRes/materiallish-progress.gif" width="210" height="160" alt="Screenshot"/>
 [MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar) | <img src="/demoRes/MaterialLoadingProgressBar.gif" width="180" height="290" alt="Screenshot"/>
 [SwipyRefreshLayout](https://github.com/OrangeGangsters/SwipyRefreshLayout) | <img src="/demoRes/SwipyRefreshLayout.gif" width="180" height="290" alt="Screenshot"/>
 [MaterialSettings](https://github.com/kenumir/MaterialSettings) | <img src="/demoRes/MaterialSettings.png" width="180" height="290" alt="Screenshot"/>
