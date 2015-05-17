@@ -127,14 +127,14 @@ Name | Demo
 ## Widget
 Name | Demo
 --- | ---
-[SwitchButton](https://github.com/kyleduo/SwitchButton) | <img src="/demoRes/SwitchButton-a.jpg"  width="260" height="260" alt="Screenshot"/> <img src="/demoRes/SwitchButton-b.png" width="180" height="290" alt="Screenshot"/>
 [materialish-progress](https://github.com/pnikosis/materialish-progress)  | <img src="/demoRes/materiallish-progress.gif" width="180" height="160" alt="Screenshot"/>
+[MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar) | <img src="/demoRes/MaterialLoadingProgressBar.gif" width="180" height="290" alt="Screenshot"/>
+[SwipyRefreshLayout](https://github.com/OrangeGangsters/SwipyRefreshLayout) | <img src="/demoRes/SwipyRefreshLayout.gif" width="180" height="290" alt="Screenshot"/>
 [MaterialSettings](https://github.com/kenumir/MaterialSettings) | <img src="/demoRes/MaterialSettings.png" width="180" height="290" alt="Screenshot"/>
-[MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar) | <img src="https://github.com/lsjwzh/MaterialLoadingProgressBar/blob/master/screen_1.gif" width="180" height="290" alt="Screenshot"/>
+[SwitchButton](https://github.com/kyleduo/SwitchButton) | <img src="/demoRes/SwitchButton-a.jpg"  width="260" height="260" alt="Screenshot"/> <img src="/demoRes/SwitchButton-b.png" width="180" height="290" alt="Screenshot"/>
 [discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | <img src="/demoRes/discreteSeekBar-a.gif" width="450" height="160" alt="Screenshot"/> <img src="/demoRes/discreteSeekBar-b.gif" width="350" height="220" alt="Screenshot"/>
 [material-range-bar](https://github.com/oli107/material-range-bar) | <img src="/demoRes/material-range-bar.gif" width="180" height="290" alt="Screenshot"/>
 [material-calendarview](https://github.com/prolificinteractive/material-calendarview) | <img src="/demoRes/material-calendarview.gif" width="230" height="290" alt="Screenshot"/>
-[SwipyRefreshLayout](https://github.com/OrangeGangsters/SwipyRefreshLayout) | <img src="/demoRes/SwipyRefreshLayout.gif" width="180" height="290" alt="Screenshot"/>
 [BetterSpinner](https://github.com/Lesilva/BetterSpinner) | <img src="/demoRes/BetterSpinner.gif" width="180" height="290" alt="Screenshot"/>
 
 ## EditText
