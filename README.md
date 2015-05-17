@@ -31,7 +31,8 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 
 
 ### Official Material Design App
-[Google  2014 iosched](https://github.com/google/iosched)    [APK](http://vdisk.weibo.com/s/av06eFs1kWSeE)
+[Google  2014 iosched](https://github.com/google/iosched)    
+[APK](http://vdisk.weibo.com/s/av06eFs1kWSeE)
 
 ## Design Res
 
@@ -190,7 +191,7 @@ Name | Demo
 [cabinet](https://github.com/afollestad/cabinet) | <img src="/demoRes/cabinet-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/cabinet-b.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/cabinet-c.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/cabinet-d.png" width="180" height="290" alt="Screenshot"/>
 
 #About Me
-weibo: [light_sky](http://www.weibo.com/lightSkyStreet)
-twitter:  [lightSkyStreet](https://twitter.com/lightSkyStreet)
-Blog:  [lightskystreet.com](http://www.lightskystreet.com/)
-email: huberycarl@gmail.com
+Weibo: [light_sky](http://www.weibo.com/lightSkyStreet)   
+Twitter:  [lightSkyStreet](https://twitter.com/lightSkyStreet)  
+Blog:  [lightskystreet.com](http://www.lightskystreet.com/)  
+Email: huberycarl@gmail.com
