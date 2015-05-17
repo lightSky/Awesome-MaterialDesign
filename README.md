@@ -72,10 +72,8 @@ Name|Demo
 [Android-Material-support-libraries-Samples](https://github.com/saleeh93/Android-Material-support-libraries-Samples) | <img src="/demoRes/Android-Material-support-libraries-Samples-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/Android-Material-support-libraries-Samples-b.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/Android-Material-support-libraries-Samples-c.png" width="180" height="290" alt="Screenshot"/>
 [MaterialDesignSupport](https://github.com/shawwinbin/MaterialDesignSupport) | <img src="/demoRes/MaterialDesignSupport-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/MaterialDesignSupport-b.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/MaterialDesignSupport-c.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/MaterialDesignSupport-d.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/MaterialDesignSupport-e.png" width="180" height="290" alt="Screenshot"/>
 [notificationmaterial](https://github.com/sprik/notificationmaterial)   | <img src="/demoRes/notificationmaterial-a.png" width="180" height="290" alt="Screenshot"/>
-[PaperStyleWidgets](https://github.com/aNNiMON/PaperStyleWidgets) | <img src="/demoRes/PaperStyleWidgets-a.gif" width="220" height="170" alt="Screenshot"/>
 [AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar) | <img src="/demoRes/AndroidMaterialDesignToolbar-a.gif" width="180" height="290" alt="Screenshot"/>
-[material-dialogs](https://github.com/afollestad/material-dialogs) | <img src="/demoRes/material-dialogs-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/material-dialogs-b.png" width="180" height="290" alt="Screenshot"/>
-[MaterialTextScaleToolbarDemo](https://github.com/yueban/MaterialTextScaleToolbarDemo)| <img src="/demoRes/MaterialTextScaleToolbarDemo.gif" width="180" height="290"/>
+[Android-L-Preview-Concepts](https://github.com/saulmm/android_L_preview_example) | <img src="/demoRes/Android-L-Preview-Concepts.gif" width="180" height="290"/>
 
 ### FAB
 Name|Demo
@@ -86,7 +84,7 @@ Name|Demo
 [tickplusdrawable](https://github.com/flavienlaurent/tickplusdrawable) | <img src="/demoRes/tickplusdrawable.gif" width="180" height="290" alt="Screenshot"/>
 [Android-Material-circular-button](https://github.com/glomadrian/Android-Material-circular-button) | <img src="/demoRes/Android-Material-circular-button-a.gif" width="180" height="290" alt="Screenshot"/>
 
-### Menu & Drawer & Widget
+### Menu & Drawer
 Name | Demo
 --- | ---
 [android-ui](https://github.com/markushi/android-ui) | <img src="/demoRes/android-ui-a.gif" width="70" height="70" alt="Screenshot"/>
@@ -99,24 +97,29 @@ Name | Demo
 [MaterialNavigationDrawer](https://github.com/neokree/MaterialNavigationDrawer) | <img src="/demoRes/MaterialNavigationDrawer-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/MaterialNavigationDrawer-b.png" width="180" height="290" alt="Screenshot"/>
 [NavigationDrawer-MaterialDesign](https://github.com/rudsonlive/NavigationDrawer-MaterialDesign) | <img src="/demoRes/navigationdrawer-materialdesign.png" width="180" height="290" alt="Screenshot"/>
 [MenuAnimation](https://github.com/onivas/MenuAnimation) | <img src="/demoRes/MenuAnimation-b.gif" width="180" height="290" alt="Screenshot"/>
-[SwitchButton](https://github.com/kyleduo/SwitchButton) | <img src="/demoRes/SwitchButton-a.jpg"  width="260" height="260" alt="Screenshot"/> <img src="/demoRes/SwitchButton-b.png" width="180" height="290" alt="Screenshot"/>
-[materialish-progress](https://github.com/pnikosis/materialish-progress)  | <img src="/demoRes/materiallish-progress.gif" width="180" height="160" alt="Screenshot"/>
-[MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar) | <img src="https://github.com/lsjwzh/MaterialLoadingProgressBar/blob/master/screen_1.gif" width="180" height="290" alt="Screenshot"/>
-[discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | <img src="/demoRes/discreteSeekBar-a.gif" width="450" height="160" alt="Screenshot"/> <img src="/demoRes/discreteSeekBar-b.gif" width="350" height="220" alt="Screenshot"/>
 [Material_Navigationdrawer](https://github.com/DympyDev/Material_Navigationdrawer) | (无图)
 [MaterialNavigation](https://github.com/datallboy/MaterialNavigation) |  (无图)
 [material-drawer ](https://github.com/HeinrichReimer/material-drawer ) | (无图)
 
+### Widget
+Name | Demo
+--- | ---
+[SwitchButton](https://github.com/kyleduo/SwitchButton) | <img src="/demoRes/SwitchButton-a.jpg"  width="260" height="260" alt="Screenshot"/> <img src="/demoRes/SwitchButton-b.png" width="180" height="290" alt="Screenshot"/>
+[materialish-progress](https://github.com/pnikosis/materialish-progress)  | <img src="/demoRes/materiallish-progress.gif" width="180" height="160" alt="Screenshot"/>
+[MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar) | <img src="https://github.com/lsjwzh/MaterialLoadingProgressBar/blob/master/screen_1.gif" width="180" height="290" alt="Screenshot"/>
+[discreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | <img src="/demoRes/discreteSeekBar-a.gif" width="450" height="160" alt="Screenshot"/> <img src="/demoRes/discreteSeekBar-b.gif" width="350" height="220" alt="Screenshot"/>
+
+### SnackBar
+Name | Demo
+--- | ---
+[SnackBar](https://github.com/Kennyc1012/SnackBar) | <img src="/demoRes/SnackBar.gif" width="180" height="290" alt="Screenshot"/>
 
 ### Tricks
-
 Name | Demo
 --- | ---
 [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) | <img src="/demoRes/Android-ObservableScrollView-a.gif" width="220" height="180" alt="Screenshot"/> <img src="/demoRes/Android-ObservableScrollView-c.gif" width="220" height="280" alt="Screenshot"/>
 [ViewPagerHeaderScrollDemo](https://github.com/ongakuer/ViewPagerHeaderScrollDemo) | <img src="/demoRes/viewpagerheaderdemo.gif" width="180" height="290" alt="Screenshot"/>
-[SnackBar](https://github.com/Kennyc1012/SnackBar) | <img src="/demoRes/SnackBar.gif" width="180" height="290" alt="Screenshot"/>
-
-
+[MaterialTextScaleToolbarDemo](https://github.com/yueban/MaterialTextScaleToolbarDemo)| <img src="/demoRes/MaterialTextScaleToolbarDemo.gif" width="180" height="290"/>
 
 ### Ripple
 Name | Demo
@@ -128,7 +131,7 @@ Name | Demo
 [material-ripple](https://github.com/balysv/material-ripple) | <img src="/demoRes/material-ripple-a.gif" width="180" height="290" alt="Screenshot"/>
 [RippleDrawable](https://github.com/03uk/RippleDrawable) | <img src="/demoRes/RippleDrawable-a.jpg" width="300" height="290" alt="Screenshot"/>
 [material-design-toolkit](https://github.com/twang2218/material-design-toolkit) |  (无图)
-
+[PaperStyleWidgets](https://github.com/aNNiMON/PaperStyleWidgets) | <img src="/demoRes/PaperStyleWidgets-a.gif" width="220" height="170" alt="Screenshot"/>
 
 ### Palette
 Name | Demo
@@ -140,7 +143,6 @@ Name | Demo
 Name | Demo
 --- | ---
 [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) | <img src="/demoRes/transitions-everywhere.gif" width="180" height="290" alt="Screenshot"/>
-[android_L_preview_example](https://github.com/saulmm/android_L_preview_example) |  (图太大)
 
 ### Vector
 Name | Demo
@@ -151,6 +153,7 @@ Name | Demo
 Name | Demo
 --- | ---
 [MaterialDialog](https://github.com/drakeet/MaterialDialog) | <img src="/demoRes/MaterialDialog.png" width="180" height="290" alt="Screenshot"/>
+[material-dialogs](https://github.com/afollestad/material-dialogs) | <img src="/demoRes/material-dialogs-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/material-dialogs-b.png" width="180" height="290" alt="Screenshot"/>
 [PostOffice](https://github.com/r0adkll/PostOffice) | <img src="/demoRes/PostOffice.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/PostOffice-b.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/PostOffice-c.png" width="180" height="290" alt="Screenshot"/>
 [L-Dialogs](https://github.com/lewisjdeane/L-Dialogs) | <img src="/demoRes/L-Dialogs.jpg" width="1000" height="350" alt="Screenshot"/>
 [MaterialStuffLibrary](https://github.com/AndroidDeveloperLB/MaterialStuffLibrary) | <img src="/demoRes/MaterialStuffLibrary-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/MaterialStuffLibrary-b.png" width="180" height="290" alt="Screenshot"/>
