@@ -4,14 +4,15 @@ Awesome-MaterialDesign
 A curated list of awesome Android MaterialDesign res and libraries. Feel free to contrubute.
 
 ##Other Awesome List
-[awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)  
-[awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)  
-[awesome-swift](https://github.com/matteocrippa/awesome-swift)  
-[awesome-android](https://github.com/snowdream/awesome-android)  
-[awesome-resources](https://github.com/lyfeyaj/awesome-resources)  
-[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)  
-[awesome-java](https://github.com/akullpp/awesome-java)  
-[awesome-svg](https://github.com/willianjusten/awesome-svg)
+* [awesome](https://github.com/sindresorhus/awesome)
+* [awesome-android](https://github.com/snowdream/awesome-android)  
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)  
+* [awesome-java](https://github.com/akullpp/awesome-java)  
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)  
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift)  
+* [awesome-svg](https://github.com/willianjusten/awesome-svg)
+* [awesome-resources](https://github.com/lyfeyaj/awesome-resources)  
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
 
 ## Doc
