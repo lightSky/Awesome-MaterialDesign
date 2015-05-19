@@ -216,7 +216,7 @@ Name | Demo
 [Material-Movies](https://github.com/saulmm/Material-Movies) | <img src="/demoRes/Material-Movies.png" width="520" height="300" alt="Screenshot"/>
 [WaniKani-for-Android](https://github.com/xiprox/WaniKani-for-Android)  | <img src="/demoRes/WaniKani-for-Android.png" width="480" height="240" alt="Screenshot"/>
 [GitLabAndroid](https://github.com/ekx/GitLabAndroid) | <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/GitLabAndroid.png"  alt="Screenshot"/>
-[cabinet](https://github.com/afollestad/cabinet) | <img src="/demoRes/cabinet-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/cabinet-b.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/cabinet-c.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/cabinet-d.png" width="180" height="290" alt="Screenshot"/>
+[material-cab](https://github.com/afollestad/material-cab) | <img src="/demoRes/cabinet-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/cabinet-b.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/cabinet-c.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/cabinet-d.png" width="180" height="290" alt="Screenshot"/>
 
 #Thanks to
 [inferjay](https://github.com/inferjay)  
