@@ -75,6 +75,7 @@ Name|Demo
 ## Showcase
 Name|Demo
 --- | ---
+[Curved-Fab-Reveal-Example](https://github.com/saulmm/Curved-Fab-Reveal-Example)  | <img src="/demoRes/Curved-Fab-Reveal-Example.gif" width="180" height="290" alt="Screenshot"/>
 [Android-LollipopShowcase](https://github.com/mikepenz/Android-LollipopShowcase) | <img src="/demoRes/Android-LollipopShowcase-a.jpg" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/Android-LollipopShowcase-b.jpg" width="180" height="290" alt="Screenshot"/>
 [google-io-2014-compat](https://github.com/rahulparsani/google-io-2014-compat)  | <img src="/demoRes/google-io-2014-compat-a.gif" width="180" height="290" alt="Screenshot"/><img src="/demoRes/google-io-2014-compat-b.gif" width="180" height="290" alt="Screenshot"/>
 [google-io-2014](https://github.com/romainguy/google-io-2014) | <img src="/demoRes/google-io-2014-a.png" width="180" height="290" alt="Screenshot"/><img src="/demoRes/google-io-2014-b.png" width="180" height="290" alt="Screenshot"/>
