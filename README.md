@@ -167,7 +167,6 @@ Name | Demo
 ## Ripple
 Name | Demo
 --- | ---
-[android-ui](https://github.com/markushi/android-ui) | <img src="/demoRes/android-ui-ripple.gif" width="180" height="290" alt="Screenshot"/>
 [RippleEffect](https://github.com/traex/RippleEffect) | <img src="/demoRes/RippleEffect.gif" width="260" height="150" alt="Screenshot"/>
 [RippleView](https://github.com/siriscac/RippleView) | <img src="/demoRes/RippleView.gif" width="180" height="290" alt="Screenshot"/>
 [android-ripple-background](https://github.com/skyfishjy/android-ripple-background) | <img src="/demoRes/android-ripple-background-a.gif" width="180" height="290" alt="Screenshot"/>
@@ -178,6 +177,7 @@ Name | Demo
 ## Reveal
 Name | Demo
 --- | ---
+[android-ui](https://github.com/markushi/android-ui) | <img src="/demoRes/android-ui-ripple.gif" width="180" height="290" alt="Screenshot"/>
 [CircularReveal](https://github.com/03uk/CircularReveal) | <img src="/demoRes/CircularReveal.gif" width="180" height="290" alt="Screenshot"/>
 [RevealLayout](https://github.com/kyze8439690/RevealLayout) | <img src="/demoRes/RevealLayout.gif" width="180" height="290" alt="Screenshot"/>
 [CircularRevealFragment](https://github.com/ferdy182/Android-CircularRevealFragment) | <img src="/demoRes/Android-CircularRevealFragment.gif" width="180" height="290" alt="Screenshot"/>
