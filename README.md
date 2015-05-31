@@ -23,7 +23,8 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 ### Google Blog
 * [AppCompat v21 — Material Design for Pre-Lollipop Devices!](http://android-developers.blogspot.jp/2014/10/appcompat-v21-material-design-for-pre.html)
 * [Implementing material design in your Android app](http://android-developers.blogspot.jp/2014/10/implementing-material-design-in-your.html)
-* [Material Design on Android Checklist](http://android-developers.blogspot.jp/2014/10/matb.com/03uk/Rerial-design-on-android-checklist.html)
+* [Material Design on Android Checklist](http://android-developers.blogspot.jp/2014/10/matb.com/03uk/Rerial-design-on-android-checklist.html)  
+* [android-design-support-library](http://android-developers.blogspot.jp/2015/05/android-design-support-library.html)
 
 #### Translate
 * [进入Material Design时代](http://blog.csdn.net/xushuaic/article/details/40627389)
@@ -49,6 +50,10 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 [Google  2014 iosched](https://github.com/google/iosched)    
 [APK](http://vdisk.weibo.com/s/av06eFs1kWSeE)
 
+## Google Design-Support-Library
+[android-design-support-library](http://android-developers.blogspot.jp/2015/05/android-design-support-library.html)
+
+
 ## Design Res
 * [www.materialup.com](http://www.materialup.com/)
 * [www.materialpalette.com](http://www.materialpalette.com/)
@@ -67,6 +72,7 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 ## Libraries
 Name|Demo
 --- | ---
+[android-design-support-library](https://github.com/navasmdc/MaterialDesignLibrary) | <img src="/demoRes/design-support-library-b.png" width="250" height="60" alt="Screenshot"/> <img src="/demoRes/design-support-library-c.png" width="250" height="60" alt="Screenshot"/> <img src="/demoRes/design-support-library-f.png" width="250" height="100" alt="Screenshot"/> <img src="/demoRes/design-support-library-a.png" width="220" height="280" alt="Screenshot"/> <img src="/demoRes/material-design-library-e.gif" width="430" height="320" alt="Screenshot"/> 
 [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) | <img src="/demoRes/MaterialDesignLibrary-a.png" width="160" height="100" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-b.png" width="120" height="60" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-c.png" width="130" height="60" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-d.png" width="130" height="60" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-e.png" width="130" height="60" alt="Screenshot"/> <img src="/demoRes/MaterialDesignLibrary-h.png" width="180" height="290" alt="Screenshot"/>
 [material](https://github.com/rey5137/material) | <img src="/demoRes/material-a.gif" width="70" height="70" alt="Screenshot"/> <img src="/demoRes/material-d.gif" width="70" height="70" alt="Screenshot"/> <img src="/demoRes/material-e.gif" width="70" height="70" alt="Screenshot"/> <img src="/demoRes/material-f.gif" width="120" height="40" alt="Screenshot"/> <img src="/demoRes/material-g.gif" width="100" height="30" alt="Screenshot"/> <img src="/demoRes/material-h.gif" width="80" height="30" alt="Screenshot"/> <img src="/demoRes/material-i.gif" width="200" height="40" alt="Screenshot"/> <img src="/demoRes/material-b.gif" width="220" height="40" alt="Screenshot"/> <img src="/demoRes/material-c.gif" width="220" height="40" alt="Screenshot"/> <img src="/demoRes/material-j.gif" width="230" height="120" alt="Screenshot"/> <img src="/demoRes/material-j.png" width="180" height="290" alt="Screenshot"/>   
 [material-design-library](https://github.com/DenisMondon/material-design-library) | <img src="/demoRes/material-design-library-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/material-design-library-b.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/material-design-library-c.png" width="180" height="290" alt="Screenshot"/>
@@ -100,6 +106,8 @@ Name|Demo
 [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton) | <img src="/demoRes/FloatingActionButton.gif" width="180" height="290" alt="Screenshot"/>
 [tickplusdrawable](https://github.com/flavienlaurent/tickplusdrawable) | <img src="/demoRes/tickplusdrawable.gif" width="180" height="290" alt="Screenshot"/>
 [Android-Material-circular-button](https://github.com/glomadrian/Android-Material-circular-button) | <img src="/demoRes/Android-Material-circular-button-a.gif" width="180" height="290" alt="Screenshot"/>
+[FloatingActionButton](https://github.com/Clans/FloatingActionButton) | <img src="/demoRes/FloatingActionButton-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/FloatingActionButton-b.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/FloatingActionButton-c.png" width="180" height="290" alt="Screenshot"/>
+[RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton)  | <img src="/demoRes/RapidFloatingActionButton-a.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/RapidFloatingActionButton-b.gif" width="180" height="290" alt="Screenshot"/>
 
 ## Menu & Drawer
 Name | Demo
@@ -107,7 +115,6 @@ Name | Demo
 [android-ui](https://github.com/markushi/android-ui) | <img src="/demoRes/android-ui-a.gif" width="70" height="70" alt="Screenshot"/>
 [material-menu](https://github.com/balysv/material-menu) | <img src="/demoRes/material-menu.gif" width="290" height="50" alt="Screenshot"/>
 [DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable) | <img src="/demoRes/DrawerArrowDrawable.gif" width="290" height="110" alt="Screenshot"/>
-[RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton)  | <img src="/demoRes/RapidFloatingActionButton-a.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/RapidFloatingActionButton-b.gif" width="180" height="290" alt="Screenshot"/>
 [LDrawer](https://github.com/ikimuhendis/LDrawer)  | <img src="/demoRes/LDrawer.gif" width="180" height="290" alt="Screenshot"/>
 [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)  | <img src="/demoRes/MaterialDrawer-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/MaterialDrawer-b.png" width="180" height="290" alt="Screenshot"/>
 [android-material-drawer-template](https://github.com/kanytu/android-material-drawer-template)  | <img src="/demoRes/android-material-drawer-template.gif" width="180" height="290" alt="Screenshot"/>
