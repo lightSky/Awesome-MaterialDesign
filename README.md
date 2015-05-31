@@ -14,7 +14,8 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 * [awesome-resources](https://github.com/lyfeyaj/awesome-resources)  
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
-##Doc and Res 
+## List of Awesome-MaterialDesign
+###Doc and Res 
 Some google and personal doc , design res and samples.   
 
 * [Doc](#doc)
@@ -24,7 +25,7 @@ Some google and personal doc , design res and samples.
 * [Blog](#Blog)
 * [Design Res](#Design Res)
 
-##MaterialDesign Libraries 
+###MaterialDesign Libraries 
 Libraries on the github.  
 
 * [Libraries](#Libraries)
