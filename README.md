@@ -14,12 +14,42 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 * [awesome-resources](https://github.com/lyfeyaj/awesome-resources)  
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
+##Doc and Res 
+Some google and personal doc , design res and samples.   
 
-## Doc
+* [Doc](#doc)
+* [Google Samples](#google-samples)
+* [Google Material Design App](#Google Material Design App)
+* [Google Design-Support-Library](#Google Design-Support-Library)
+* [Blog](#Blog)
+* [Design Res](#Design Res)
+
+##MaterialDesign Libraries 
+Libraries on the github.  
+
+* [Libraries](#Libraries)
+* [Showcase](#Showcase)
+* [FAB](#FAB)
+* [Menu & Drawer](#Menu & Drawer)
+* [View](#View)
+* [Widget](#Widget)
+* [EditText](#EditText)
+* [SnackBar](#SnackBar)
+* [Palette](#Palette)
+* [Transition](#Transition)
+* [Ripple](#Ripple)
+* [Reveal](#Reveal) 
+* [Tricks](#Tricks)
+* [Vector & SVG & path-view](#Vector & SVG & path-view)
+* [Dialog](#Dialog)
+* [Project](#Project)
+
+
+## <a name="doc">Doc</a> 
 * [material-design introduction](http://www.google.com/design/spec/material-design/introduction.html)
 * [MaterialDesign中文文档](http://design.1sters.com/)
 
-## Google Samples
+## <a name="Google Samples">Google Samples</a>
 * [SwipeRefreshMultipleViews](https://github.com/googlesamples/android-SwipeRefreshMultipleViews)
 * [SwipeRefreshListFragment](https://github.com/googlesamples/android-SwipeRefreshListFragment)
 * [SwipeRefreshLayoutBasic](https://github.com/googlesamples/android-SwipeRefreshLayoutBasic)
@@ -28,15 +58,15 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 * [FloatingActionButtonBasic](https://github.com/googlesamples/android-FloatingActionButtonBasic)
 * [ElevationBasic](https://github.com/googlesamples/android-ElevationBasic)
 
-## Google Material Design App
+##  <a name="Google Material Design App">Google Material Design App</a>
 [Google  2014 iosched](https://github.com/google/iosched)    
 [APK](http://vdisk.weibo.com/s/av06eFs1kWSeE)
 
-## Google Design-Support-Library
+## <a name="Google Design-Support-Library">Google Design-Support-Library</a>
 [android-design-support-library](http://android-developers.blogspot.jp/2015/05/android-design-support-library.html)
 [Demo](https://github.com/chrisbanes/cheesesquare)
 
-## Blog
+## <a name="Blog">Blog</a> 
 ### Google Blog
 * [AppCompat v21 — Material Design for Pre-Lollipop Devices!](http://android-developers.blogspot.jp/2014/10/appcompat-v21-material-design-for-pre.html)
 * [Implementing material design in your Android app](http://android-developers.blogspot.jp/2014/10/implementing-material-design-in-your.html)
@@ -54,7 +84,7 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 * [Material design in the 2014 Google I/O app](https://medium.com/google-design/material-design-in-the-2014-google-i-o-app-e3b22caffae6)
 * [MaterialDesigh 学习笔记](http://www.uisdc.com/comprehensive-material-design-note#368390-tsina-1-73915-ebfdadd9b239798c6a2035c828aafd11)
 
-## Design Res
+## <a name="Design Res">Design Res</a> 
 * [www.materialup.com](http://www.materialup.com/)
 * [www.materialpalette.com](http://www.materialpalette.com/)
 * [TextDrawable](https://github.com/amulyakhare/TextDrawable)
@@ -64,12 +94,12 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 * [material-design-icons-adt-template](https://github.com/intrications/material-design-icons-adt-template)
 * [Design resources for Material Design](https://github.com/Templarian/MaterialDesign)
 
-## Video
+## <a name="Video">Video</a> 
 * [Material design & implementation](https://skillsmatter.com/skillscasts/5627-material-design)
 * [Google I/O 2014 - Material witness: How Android material applications work](https://www.youtube.com/watch?v=97SWYiRtF0Y&feature=youtu.be)
 
-# Material Libs
-## Libraries
+# <a name="Material Libs">Material Libs</a> 
+## <a name="Libraries">Libraries</a> 
 Name|Demo
 --- | ---
 [android-design-support-library](https://github.com/chrisbanes/cheesesquare) | <img src="/demoRes/design-support-library-b.png" width="250" height="60" alt="Screenshot"/> <img src="/demoRes/design-support-library-c.png" width="250" height="60" alt="Screenshot"/> <img src="/demoRes/design-support-library-f.png" width="250" height="100" alt="Screenshot"/> <img src="/demoRes/design-support-library-a.png" width="220" height="280" alt="Screenshot"/> <img src="/demoRes/material-design-library-e.gif" width="430" height="320" alt="Screenshot"/> 
@@ -79,7 +109,7 @@ Name|Demo
 [MaterialWidget](https://github.com/keithellis/MaterialWidget) | <img src="/demoRes/MaterialWidget.png" width="340" height="290" alt="Screenshot"/>
 [Material Design In XAML Toolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) | <img src="/demoRes/MaterialDesignInXamlToolkit.gif" width="340" height="217" alt="Screenshot"/>
 
-## Showcase
+## <a name="Showcase">Showcase</a> 
 Name|Demo
 --- | ---
 [Curved-Fab-Reveal-Example](https://github.com/saulmm/Curved-Fab-Reveal-Example)  | <img src="/demoRes/Curved-Fab-Reveal-Example.gif" width="180" height="300" alt="Screenshot"/>
@@ -98,7 +128,7 @@ Name|Demo
 
 
 
-## FAB
+## <a name="FAB">FAB</a> 
 Name|Demo
 --- | ---
 [FloatingActionButton](https://github.com/FaizMalkani/FloatingActionButton) | 
@@ -109,7 +139,7 @@ Name|Demo
 [FloatingActionButton](https://github.com/Clans/FloatingActionButton) | <img src="/demoRes/FloatingActionButton-a.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/FloatingActionButton-b.png" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/FloatingActionButton-c.png" width="180" height="290" alt="Screenshot"/>
 [RapidFloatingActionButton](https://github.com/wangjiegulu/RapidFloatingActionButton)  | <img src="/demoRes/RapidFloatingActionButton-a.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/RapidFloatingActionButton-b.gif" width="180" height="290" alt="Screenshot"/>
 
-## Menu & Drawer
+## <a name="Menu & Drawer">Menu & Drawer</a> 
 Name | Demo
 --- | ---
 [android-ui](https://github.com/markushi/android-ui) | <img src="/demoRes/android-ui-a.gif" width="70" height="70" alt="Screenshot"/>
@@ -127,14 +157,14 @@ Name | Demo
 [MaterialNavigation](https://github.com/datallboy/MaterialNavigation) |  
 [material-drawer](https://github.com/HeinrichReimer/material-drawer ) | 
 
-## View
+## <a name="View">View</a> 
 Name | Demo
 --- | ---
 [MaterialImageView](https://github.com/zhaozhentao/MaterialImageView) | <img src="/demoRes/MaterialImageView.jpg" width="180" height="290" alt="Screenshot"/>
 [MaterialViewPager](https://github.com/florent37/MaterialViewPager) | <img src="/demoRes/MaterialViewPager-a.gif" width="180" height="290" alt="Screenshot"/>
 [Android-MaterialPreference](https://github.com/jenzz/Android-MaterialPreference) | <img src="/demoRes/Android-MaterialPreference.png" width="180" height="290" alt="Screenshot"/>
 
-## Widget
+## <a name="Widget">Widget</a> 
 Name | Demo
 --- | ---
 [materialish-progress](https://github.com/pnikosis/materialish-progress)  | <img src="/demoRes/materiallish-progress.gif" width="210" height="160" alt="Screenshot"/>
@@ -147,31 +177,31 @@ Name | Demo
 [material-calendarview](https://github.com/prolificinteractive/material-calendarview) | <img src="/demoRes/material-calendarview.gif" width="230" height="290" alt="Screenshot"/>
 [BetterSpinner](https://github.com/Lesilva/BetterSpinner) | <img src="/demoRes/BetterSpinner.gif" width="180" height="290" alt="Screenshot"/>
 
-## EditText
+## <a name="EditText">EditText</a> 
 Name | Demo
 --- | ---
 [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) | <img src="/demoRes/MaterialEditText-a.png" width="250" height="170" alt="Screenshot"/>
 [MaterialTextField](https://github.com/zst123/MaterialTextField) | <img src="/demoRes/MaterialTextField-a.jpg" width="250" height="170" alt="Screenshot"/>
 
-## SnackBar
+## <a name="SnackBar">SnackBar</a> 
 Name | Demo
 --- | ---
 [SnackBar](https://github.com/Kennyc1012/SnackBar) | <img src="/demoRes/SnackBar.gif" width="180" height="290" alt="Screenshot"/>
 [snackbar](https://github.com/nispok/snackbar) | <img src="/demoRes/snackbar-a.png" width="180" height="290" alt="Screenshot"/>
 
-## Palette
+## <a name="Palette">Palette</a> 
 Name | Demo
 --- | ---
 [material-painter](https://github.com/novoda/material-painter) | <img src="/demoRes/material-painter.gif" width="180" height="290" alt="Screenshot"/>
 
-## Transition
+## <a name="Transition">Transition</a> 
 Name | Demo
 --- | ---
 [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) | <img src="/demoRes/transitions-everywhere.gif" width="180" height="290" alt="Screenshot"/>
 [PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition) | <img src="/demoRes/PreLollipopTransition-a.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/PreLollipopTransition-b.gif" width="180" height="290" alt="Screenshot"/>
 [Material-Animations](https://github.com/lgvalle/Material-Animations) | <img src="/demoRes/Material-Animations.gif" width="180" height="290" alt="Screenshot"/>
 
-## Ripple
+## <a name="Ripple">Ripple</a> 
 Name | Demo
 --- | ---
 [RippleEffect](https://github.com/traex/RippleEffect) | <img src="/demoRes/RippleEffect.gif" width="260" height="150" alt="Screenshot"/>
@@ -181,7 +211,7 @@ Name | Demo
 [PaperStyleWidgets](https://github.com/aNNiMON/PaperStyleWidgets) | <img src="/demoRes/PaperStyleWidgets-a.gif" width="220" height="170" alt="Screenshot"/>
 [material-design-toolkit](https://github.com/twang2218/material-design-toolkit) |  
 
-## Reveal
+##  <a name="Reveal">Reveal</a> 
 Name | Demo
 --- | ---
 [android-ui](https://github.com/markushi/android-ui) | <img src="/demoRes/android-ui-ripple.gif" width="180" height="290" alt="Screenshot"/>
@@ -190,7 +220,7 @@ Name | Demo
 [CircularRevealFragment](https://github.com/ferdy182/Android-CircularRevealFragment) | <img src="/demoRes/Android-CircularRevealFragment.gif" width="180" height="290" alt="Screenshot"/>
 [ViewRevealAnimator](https://github.com/sephiroth74/ViewRevealAnimator) | <img src="/demoRes/ViewRevealAnimator.gif" width="180" height="290" alt="Screenshot"/>
 
-## Tricks
+## <a name="Tricks">Tricks</a>
 Name | Demo
 --- | ---
 [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) | <img src="/demoRes/Android-ObservableScrollView-a.gif" width="220" height="180" alt="Screenshot"/> <img src="/demoRes/Android-ObservableScrollView-c.gif" width="220" height="280" alt="Screenshot"/>
@@ -198,7 +228,7 @@ Name | Demo
 [MaterialTextScaleToolbarDemo](https://github.com/yueban/MaterialTextScaleToolbarDemo)| <img src="/demoRes/MaterialTextScaleToolbarDemo.gif" width="180" height="290"/>
 [Scrollable](https://github.com/noties/Scrollable)| <img src="/demoRes/Scrollable.gif" width="180" height="290"/>
 
-## Vector & SVG & path-view
+## <a name="Vector & SVG & path-view">Vector & SVG & path-view</a>
 Name | Demo
 --- | ---
 [vector-compat](https://github.com/wnafee/vector-compat)  | <img src="/demoRes/vector-compat-a.gif" width="80" height="80" alt="Screenshot"/> <img src="/demoRes/vector-compat-b.gif" width="110" height="80" alt="Screenshot"/> <img src="/demoRes/vector-compat-c.gif" width="110" height="80" alt="Screenshot"/>
@@ -206,7 +236,7 @@ Name | Demo
 [android-pathview](https://github.com/geftimov/android-pathview) | <img src="/demoRes/android-pathview-a.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/android-pathview-b.gif" width="180" height="290" alt="Screenshot"/>
 [SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) | [SVG-Loaders-Previewed](http://samherbert.net/svg-loaders/)
 
-## Dialog
+## <a name="Dialog">Dialog</a>
 Name | Demo
 --- | ---
 [MaterialDialog](https://github.com/drakeet/MaterialDialog) | <img src="/demoRes/MaterialDialog.png" width="180" height="290" alt="Screenshot"/>
@@ -217,7 +247,7 @@ Name | Demo
 [AlertDialogPro](https://github.com/fengdai/AlertDialogPro) | <img src="/demoRes/AlertDialogPro-a.png" width="250" height="180" alt="Screenshot"/> <img src="/demoRes/AlertDialogPro-b.png" width="250" height="180" alt="Screenshot"/> <img src="/demoRes/AlertDialogPro-c.png" width="250" height="180" alt="Screenshot"/> <img src="/demoRes/AlertDialogPro-d.png" width="250" height="180" alt="Screenshot"/>
 
 
-# Project
+# <a name="Project">Project</a>
 Name | Demo
 --- | ---
 [philm](https://github.com/chrisbanes/philm) | <img src="/demoRes/philm.gif" width="180" height="290" alt="Screenshot"/>
