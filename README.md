@@ -19,6 +19,23 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 * [material-design introduction](http://www.google.com/design/spec/material-design/introduction.html)
 * [MaterialDesign中文文档](http://design.1sters.com/)
 
+## Google Samples
+* [SwipeRefreshMultipleViews](https://github.com/googlesamples/android-SwipeRefreshMultipleViews)
+* [SwipeRefreshListFragment](https://github.com/googlesamples/android-SwipeRefreshListFragment)
+* [SwipeRefreshLayoutBasic](https://github.com/googlesamples/android-SwipeRefreshLayoutBasic)
+* [RevealEffectBasic](https://github.com/googlesamples/android-RevealEffectBasic)
+* [android-Interpolator](https://github.com/googlesamples/android-Interpolator)
+* [FloatingActionButtonBasic](https://github.com/googlesamples/android-FloatingActionButtonBasic)
+* [ElevationBasic](https://github.com/googlesamples/android-ElevationBasic)
+
+## Google Material Design App
+[Google  2014 iosched](https://github.com/google/iosched)    
+[APK](http://vdisk.weibo.com/s/av06eFs1kWSeE)
+
+## Google Design-Support-Library
+[android-design-support-library](http://android-developers.blogspot.jp/2015/05/android-design-support-library.html)
+[Demo](https://github.com/chrisbanes/cheesesquare)
+
 ## Blog
 ### Google Blog
 * [AppCompat v21 — Material Design for Pre-Lollipop Devices!](http://android-developers.blogspot.jp/2014/10/appcompat-v21-material-design-for-pre.html)
@@ -36,23 +53,6 @@ A curated list of awesome Android MaterialDesign res and libraries. Feel free to
 * [Content Transitions In-Depth (part 2)](http://www.androiddesignpatterns.com/2014/12/activity-fragment-content-transitions-in-depth-part2.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+androiddesignpatterns+%28Android+Design+Patterns%29)
 * [Material design in the 2014 Google I/O app](https://medium.com/google-design/material-design-in-the-2014-google-i-o-app-e3b22caffae6)
 * [MaterialDesigh 学习笔记](http://www.uisdc.com/comprehensive-material-design-note#368390-tsina-1-73915-ebfdadd9b239798c6a2035c828aafd11)
-
-## Google Samples
-* [SwipeRefreshMultipleViews](https://github.com/googlesamples/android-SwipeRefreshMultipleViews)
-* [SwipeRefreshListFragment](https://github.com/googlesamples/android-SwipeRefreshListFragment)
-* [SwipeRefreshLayoutBasic](https://github.com/googlesamples/android-SwipeRefreshLayoutBasic)
-* [RevealEffectBasic](https://github.com/googlesamples/android-RevealEffectBasic)
-* [android-Interpolator](https://github.com/googlesamples/android-Interpolator)
-* [FloatingActionButtonBasic](https://github.com/googlesamples/android-FloatingActionButtonBasic)
-* [ElevationBasic](https://github.com/googlesamples/android-ElevationBasic)
-
-## Google Material Design App
-[Google  2014 iosched](https://github.com/google/iosched)    
-[APK](http://vdisk.weibo.com/s/av06eFs1kWSeE)
-
-## Google Design-Support-Library
-[android-design-support-library](http://android-developers.blogspot.jp/2015/05/android-design-support-library.html)
-
 
 ## Design Res
 * [www.materialup.com](http://www.materialup.com/)
