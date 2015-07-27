@@ -268,4 +268,4 @@ Name | Demo
 Weibo: [light_sky](http://www.weibo.com/lightSkyStreet)   
 Twitter:  [lightSkyStreet](https://twitter.com/lightSkyStreet)  
 Blog:  [lightskystreet.com](http://www.lightskystreet.com/)  
-Email: huberycarl@gmail.com
+Email: lightsky.cn@gmail.com
