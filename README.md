@@ -164,6 +164,7 @@ Name | Demo
 [MaterialImageView](https://github.com/zhaozhentao/MaterialImageView) | <img src="/demoRes/MaterialImageView.jpg" width="180" height="290" alt="Screenshot"/>
 [MaterialViewPager](https://github.com/florent37/MaterialViewPager) | <img src="/demoRes/MaterialViewPager-a.gif" width="180" height="290" alt="Screenshot"/>
 [Android-MaterialPreference](https://github.com/jenzz/Android-MaterialPreference) | <img src="/demoRes/Android-MaterialPreference.png" width="180" height="290" alt="Screenshot"/>
+[SwipeableCard](https://github.com/michelelacorte/SwipeableCard) | <img src="/demoRes/SwipeableCard.gif" width="180" height="290" alt="Screenshot"/> <img src="/demoRes/SwipeableCard1.gif" width="180" height="290" alt="Screenshot"/>
 
 ## <a name="Widget">Widget</a> 
 Name | Demo
