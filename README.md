@@ -225,6 +225,7 @@ Name | Demo
 ## <a name="Tricks">Tricks</a>
 Name | Demo
 --- | ---
+[ForceTouch](https://github.com/michelelacorte/ForceTouch) | <img src="/demoRes/ForceTouch.png" width="180" height="290" alt="Screenshot"/>
 [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) | <img src="/demoRes/Android-ObservableScrollView-a.gif" width="220" height="180" alt="Screenshot"/> <img src="/demoRes/Android-ObservableScrollView-c.gif" width="220" height="280" alt="Screenshot"/>
 [ViewPagerHeaderScrollDemo](https://github.com/ongakuer/ViewPagerHeaderScrollDemo) | <img src="/demoRes/viewpagerheaderdemo.gif" width="180" height="290" alt="Screenshot"/>
 [MaterialTextScaleToolbarDemo](https://github.com/yueban/MaterialTextScaleToolbarDemo)| <img src="/demoRes/MaterialTextScaleToolbarDemo.gif" width="180" height="290"/>
