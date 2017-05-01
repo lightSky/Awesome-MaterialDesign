@@ -3,7 +3,7 @@ Awesome-MaterialDesign
 
 A curated list of awesome Android MaterialDesign res and libraries. Feel free to contrubute.
 
-##Other Awesome List
+## Other Awesome List
 * [awesome](https://github.com/sindresorhus/awesome)
 * [awesome-android](https://github.com/snowdream/awesome-android)  
 * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)  
@@ -25,7 +25,7 @@ Some google and personal doc , design res and samples.
 * [Blog](#Blog)
 * [Design Res](#Design Res)
 
-###MaterialDesign Libraries 
+### MaterialDesign Libraries 
 Libraries on the github.  
 
 * [Libraries](#Libraries)
@@ -258,14 +258,14 @@ Name | Demo
 [WaniKani-for-Android](https://github.com/xiprox/WaniKani-for-Android)  | <img src="/demoRes/WaniKani-for-Android.png" width="480" height="240" alt="Screenshot"/>
 [GitLabAndroid](https://github.com/ekx/GitLabAndroid) | <img src="https://github.com/inferjay/MaterialDesignCenter/blob/master/demoRes/GitLabAndroid.png"  alt="Screenshot"/>
 
-#Thanks to
+# Thanks to
 [inferjay](https://github.com/inferjay)  
 [QichaoChen](https://github.com/QichaoChen)  
 [miao1007](https://github.com/miao1007)  
 [yueban](https://github.com/yueban)  
 [lsjwzh](https://github.com/lsjwzh)  
 
-#About Me
+# About Me
 Weibo: [light_sky](http://www.weibo.com/lightSkyStreet)   
 Twitter:  [lightSkyStreet](https://twitter.com/lightSkyStreet)  
 Blog:  [lightskystreet.com](http://www.lightskystreet.com/)  
