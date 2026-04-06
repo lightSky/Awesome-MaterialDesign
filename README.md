@@ -24,6 +24,7 @@ Some google and personal doc , design res and samples.
 * [Google Design-Support-Library](#Google Design-Support-Library)
 * [Blog](#Blog)
 * [Design Res](#Design Res)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Material Design workflow orchestration, automated UI management, and multi-agent coordination. MIT licensed.
 
 ###MaterialDesign Libraries 
 Libraries on the github.  
