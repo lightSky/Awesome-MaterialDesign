@@ -86,6 +86,7 @@ Libraries on the github.
 * [MaterialDesigh 学习笔记](http://www.uisdc.com/comprehensive-material-design-note#368390-tsina-1-73915-ebfdadd9b239798c6a2035c828aafd11)
 
 ## <a name="Design Res">Design Res</a> 
+* [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that generates memorial shadow box SVGs with an editable name plate (you type the name inside Cricut, no custom order needed) plus original 7-layer mandala bundles; one file per physical layer, 6500px PNG renders, quality gates and a static storefront, running entirely on GitHub Actions.
 * [www.materialup.com](http://www.materialup.com/)
 * [www.materialpalette.com](http://www.materialpalette.com/)
 * [TextDrawable](https://github.com/amulyakhare/TextDrawable)
